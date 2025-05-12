@@ -1,0 +1,5 @@
+- 비일관성(Inconsistency)
+- 비일관성
+- Inconsistency
+- InConsistency
+- IC

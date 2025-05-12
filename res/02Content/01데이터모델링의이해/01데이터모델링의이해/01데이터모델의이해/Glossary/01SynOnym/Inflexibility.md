@@ -1,0 +1,5 @@
+- 비유연성(Inflexibility)
+- 비유연성
+- Inflexibility
+- InFlexibility
+- IF

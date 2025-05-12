@@ -1,0 +1,10 @@
+- 논리적 데이터 모델링(LogicalDataModeling)
+- 논리적 데이터 모델링
+- 논리적 데이터모델링
+- 논리적데이터모델링
+- 논리적
+- 논리
+- LogicalDataModeling
+- Logical DataModeling
+- Logical Data Modeling
+- LDM

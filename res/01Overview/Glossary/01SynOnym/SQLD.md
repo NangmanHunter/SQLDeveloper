@@ -1,0 +1,15 @@
+- SQLD
+- SQL D
+- SQLD자격증
+- SQLD 자격증
+- SQLd
+- SQL개발자
+- SQL개발자자격증
+- SQL개발자 자격증
+- SQL 개발자
+- SQL Developer
+- SQL-Developer
+- SQL_Developer
+- SQLDeveloper
+- SQLD*
+- SQL 개발자(SQLD*, SQL Developer)

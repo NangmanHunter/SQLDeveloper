@@ -1,0 +1,10 @@
+- 개념적 데이터 모델링(Conceptual Data Modeling)
+- 개념적 데이터 모델링
+- 개념적 데이터모델링
+- 개념적데이터모델링
+- 개념적
+- 개념
+- Conceptual Data Modeling
+- Conceptual DataModeling
+- ConceptualDataModeling
+- CDM

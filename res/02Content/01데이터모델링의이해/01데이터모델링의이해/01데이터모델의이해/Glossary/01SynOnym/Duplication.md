@@ -1,0 +1,3 @@
+- 중복(Duplication)
+- 중복
+- Duplication

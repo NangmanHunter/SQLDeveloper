@@ -1,0 +1,15 @@
+- SQL 전문가(SQLP*, SQL Professional)
+- SQL 전문가
+- SQL전문가
+- SQL전문가자격
+- SQL전문가 자격
+- SQL전문가자격증
+- SQL전문가 자격증
+- SQLP*
+- SQLP
+- SQLP자격
+- SQLP 자격
+- SQLP자격증
+- SQLP 자격증
+- SQL Professional
+- SQLProfessional

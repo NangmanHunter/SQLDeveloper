@@ -1,0 +1,7 @@
+- 개념스키마
+- 개념스키마(ConceptualSchema)
+- 개념 스키마
+- ConceptualSchema
+- Conceptual Schema
+- Conceptual
+- CS

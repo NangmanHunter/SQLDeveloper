@@ -1,0 +1,10 @@
+- 물리적 데이터 모델링(Physical Data Modeling)
+- 물리적 데이터 모델링
+- 물리적 데이터모델링
+- 물리적데이터모델링
+- 물리적
+- 물리
+- Physical Data Modeling
+- Physical DataModeling
+- PhysicalDataModeling
+- PDM
