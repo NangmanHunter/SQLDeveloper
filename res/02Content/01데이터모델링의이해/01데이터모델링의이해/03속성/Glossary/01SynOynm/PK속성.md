@@ -1,0 +1,12 @@
+- PK(Primary Key)속성
+- PK속성(Primary Key)
+- PK속성(Primary Key Attribute)
+- PK속성
+- PK
+- PKAttribute
+- PK Attribute
+- Primary Key Attribute
+- PrimaryKey Attribute
+- PrimaryKeyAttribute
+- PKA
+- PA
