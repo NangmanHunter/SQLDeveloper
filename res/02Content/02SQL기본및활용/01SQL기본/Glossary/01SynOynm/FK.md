@@ -1,0 +1,4 @@
+- Foreign Key
+- ForeignKey
+- FK
+- 외래키

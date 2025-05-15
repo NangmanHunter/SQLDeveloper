@@ -1,0 +1,12 @@
+- 단일행함수(Single-Row Function)
+- 단일행함수
+- 단일행
+- 단일
+- 단
+- Single-Row
+- Single
+- SingleRow
+- Single-Row Function
+- SingleRow Function
+- SingleRowFunction
+- SRF

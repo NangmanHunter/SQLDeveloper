@@ -1,0 +1,10 @@
+- SQL(Structured Query Language)
+- SQL
+- Structured Query Language
+- Structured QueryLanguage
+- StructuredQueryLanguage
+- StructuredQuery Language
+- 관계형데이터베이스언어
+- 관계형DB언어
+- 관계형데이터베이스에서 데이터정의ㆍ데이터조작ㆍ데이터제어를하기위해 사용하는언어
+- 관계형데이터베이스에서 데이터정의ㆍ데이터조작ㆍ데이터제어를 하기위해 사용하는언어

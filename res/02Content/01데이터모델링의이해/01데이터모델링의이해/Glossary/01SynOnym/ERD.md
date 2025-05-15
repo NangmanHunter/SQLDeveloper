@@ -1,0 +1,8 @@
+- ERD(Entity Relationship Diagram)
+- ERD
+- Entity Relationship Diagram
+- EntityRelationship Diagram
+- EntityRelationshipDiagram
+- 📌ERD▶️엔터티ㆍ관계ㆍ속성
+- 📌ERD▶️EntityㆍRelationshipㆍAttribute
+- 📌ERD▶️ERA

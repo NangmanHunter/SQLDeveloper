@@ -1,0 +1,4 @@
+- PrimaryKey
+- Primary Key
+- PK
+- 기본키
