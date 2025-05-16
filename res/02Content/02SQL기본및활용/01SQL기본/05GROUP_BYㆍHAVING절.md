@@ -1,9 +1,8 @@
 # GROUP_BYㆍHAVING절
-- [GROUP\_BYㆍHAVING절](#group_byㆍhaving절)
-  - [집계 함수(Aggregate Function)](#집계-함수aggregate-function)
-  - [HAVING절](#having절)
-  - [CASE표현을 활용한 월별데이터집계](#case표현을-활용한-월별데이터집계)
-  - [집계함수와 NULL](#집계함수와-null)
+- [집계 함수(Aggregate Function)](#집계-함수aggregate-function)
+- [HAVING절](#having절)
+- [CASE표현을 활용한 월별데이터집계](#case표현을-활용한-월별데이터집계)
+- [집계함수와 NULL](#집계함수와-null)
 
 ## 집계 함수(Aggregate Function)
 - 여러 행들의 그룹이 모여서 그룹당 단 하나의 결과를 돌려주는 함수
