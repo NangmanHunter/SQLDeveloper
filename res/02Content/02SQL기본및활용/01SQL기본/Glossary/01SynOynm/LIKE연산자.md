@@ -1,0 +1,12 @@
+- LIKE연산자
+- Like연산자
+- Like
+- LIKE연산
+- LIKE
+- LIKE 연산자
+- LIKE '비교문자열'
+- LIKE '비교문자열' 연산자
+- LIKE ''
+- LIKE '' 연산자
+- LIKE ' '
+- LIKE ' ' 연산자

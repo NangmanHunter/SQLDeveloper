@@ -1,0 +1,19 @@
+- IS NULL
+- IS NULL 연산자
+- IS-NULL 연산자
+- IS-NULL연산자
+- IS-NULL
+- IS_NULL 연산자
+- IS_NULL연산자
+- IS_NULL
+- ISNULL 연산자
+- ISNULL연산자
+- ISㆍNULL연산자
+- ISㆍNULL
+- ISNULL
+- ISㆍNULL 연산자
+- IsㆍNull 연산자
+- IsㆍNull연산자
+- IsNull연산자
+- IsNull 연산자
+- IsNull
