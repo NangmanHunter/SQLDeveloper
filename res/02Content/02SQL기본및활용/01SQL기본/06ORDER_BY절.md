@@ -9,7 +9,7 @@ FROM 테이블명
 [WHERE 조건식]
 [GROUP BY 칼럼(Column)이나 표현식]
 [HAVING 그룹조건식]
-[ORDER BY 칼럼(Column)이나 표현식  [ASC 또는 DESC]] ;
+[ORDER BY 칼럼(Column)이나 표현식 [ASC 또는 DESC]] ;
 ```
 
 - 기본▶️ASC 
@@ -37,8 +37,8 @@ ROWNUM
 - ```sql
   SELECT ENAME, SAL
   FROM (SELECT ENAME, SAL
-  FROM EMP
-  ORDER BY SAL DESC)
+        FROM EMP
+        ORDER BY SAL DESC)
   WHERE ROWNUM <4 ;
   ```
 
