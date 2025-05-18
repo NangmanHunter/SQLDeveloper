@@ -22,34 +22,34 @@ BasedOn
 
 SQL 기본 및 활용
 - SQL 기본
-  - ⭕관계형 데이터베이스 개요
+  - ✅관계형 데이터베이스 개요
   - ❌SELECT 문
-  - ⭕함수
-  - ⭕WHERE 절
-  - ⭕GROUP BY, HAVING 절
-  - ⭕ORDER BY 절
-  - ⭕조인
-  - ⭕표준 조인
+  - ✅함수
+  - ✅WHERE 절
+  - ✅GROUP BY, HAVING 절
+  - ✅ORDER BY 절
+  - ✅조인
+  - ✅표준 조인
 - SQL 활용
-  - ⭕서브쿼리
-  - ⭕집합연산자
-  - ⭕그룹 함수
-  - ⭕윈도우 함수
+  - ✅서브쿼리
+  - ✅집합연산자
+  - ✅그룹 함수
+  - ✅윈도우 함수
   - ❌Top N 쿼리
-  - ⭕계층형 질의와 셀프 조인
+  - ✅계층형 질의와 셀프 조인
   - ❌PIVOT 절과 UNPIVOT 절
   - ❌정규표현식
 - 관리 구문
-  - ⭕DML
-  - ⭕TCL
-  - ⭕DDL
-  - ⭕DCL
+  - ✅DML
+  - ✅TCL
+  - ✅DDL
+  - ✅DCL
 
 
 
 ## SubResourceCategory
-- ⭕▶️SQLD가이드
+- ✅▶️SQLD가이드
 - ❌▶️요약서
 
 정리순서
-- ⭕▶️❌
+- ✅▶️❌
