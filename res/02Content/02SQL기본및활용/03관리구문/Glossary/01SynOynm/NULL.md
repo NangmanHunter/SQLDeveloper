@@ -1,0 +1,9 @@
+- NULL
+- NULL값
+- NULL ASCII00번
+- ASCII00번
+- 00번ASCII
+- 00ASCII
+- ASCII 00번
+- 현재 데이터를 입력하지 못하는 경우
+- 아직 정의되지 않은 미지의 값
