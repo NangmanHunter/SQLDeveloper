@@ -2,9 +2,15 @@
 - 논리적 데이터 모델링
 - 논리적 데이터모델링
 - 논리적데이터모델링
+- 논리데이터모델링
 - 논리적
 - 논리
 - LogicalDataModeling
 - Logical DataModeling
 - Logical Data Modeling
 - LDM
+- 시스템으로 구축하고자 하는 업무에 대해 Key, 속성, 관계 등을 정확하게 표현
+- Key, 속성, 관계 등을 정확하게 표현
+- Key, 속성, 관계
+- 재사용성이 높음
+- 재사용성

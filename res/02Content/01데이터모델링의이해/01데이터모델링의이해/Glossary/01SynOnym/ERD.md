@@ -6,3 +6,8 @@
 - 📌ERD▶️엔터티ㆍ관계ㆍ속성
 - 📌ERD▶️EntityㆍRelationshipㆍAttribute
 - 📌ERD▶️ERA
+- Entity-Relationship Model（E-R Model） 
+- Entity-Relationship Model（E-R Model）표기법
+- 1976년 피터첸（Peter Chen）
+- 1976년
+- 피터첸（Peter Chen）

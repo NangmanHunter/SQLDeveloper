@@ -1,5 +1,11 @@
 - 비일관성(Inconsistency)
 - 비일관성
+- ❌비일관성
+- ✅일관성
+- ✅일관성있음
+- ✅일관성있게
+- ✅일관성있게유지
+- ✅일관성유지
 - Inconsistency
 - InConsistency
 - IC

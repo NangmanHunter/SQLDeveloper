@@ -1,0 +1,13 @@
+- 절차형SQL
+- 절차SQL
+- 절차형 SQL
+- Procedural SQL
+- Oracle▶️Procedural Language/Structured Query Language
+- Oracle▶️ProceduralLanguage/StructuredQueryLanguage
+- Oracle▶️PL/SQL
+- MS▶️Transact-SQL
+- MS▶️T-SQL
+- MS▶️SQLServer▶️T-SQL
+- SQLServer▶️T-SQL
+- MS▶️TSQL
+- PL/SQL
