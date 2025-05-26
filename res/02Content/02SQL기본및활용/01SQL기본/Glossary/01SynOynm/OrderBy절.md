@@ -1,0 +1,16 @@
+- OrderBy절
+- OrderBy
+- ORDER_BY절
+- ORDER_BY
+- ORDER BY
+- 📌FromㆍSelect         ▶️✅OrderBy외부컬럼
+- 📌FromㆍGroupByㆍSelect▶️❌OrderBy외부컬럼
+- 📌OrderBy외부컬럼▶️✅FromㆍSelect         
+- 📌OrderBy외부컬럼▶️❌FromㆍGroupByㆍSelect
+- OrderBy절▶️컬럼명
+- OrderBy절▶️컬럼명ㆍAlias
+- OrderBy절▶️컬럼명ㆍAliasㆍ정수
+- OrderBy절▶️컬럼명ㆍAliasㆍ정수혼용
+- OrderBy절▶️컬럼명ㆍAliasㆍ정수 혼용
+- OrderBy절▶️✅컬럼명ㆍAliasㆍ정수혼용
+

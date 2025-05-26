@@ -1,0 +1,9 @@
+- ISNULL
+- ISNULL함수
+- ISNULL()
+- ISNULL(A,B)
+- ISNULL(A, B)
+- ISNULL()함수
+- IsNull
+- 📌A=NULL▶️B
+- 📌A≠NULL▶️A

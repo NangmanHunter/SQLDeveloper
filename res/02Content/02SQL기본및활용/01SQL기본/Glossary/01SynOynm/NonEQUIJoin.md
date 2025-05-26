@@ -1,0 +1,10 @@
+- NonEquiJoin
+- NonEQUIJoin
+- NonEQUIJOIN
+- NonEQUI Join
+- NEQUIJoin
+- NEQUIJ
+- NEQJ
+- NJ
+- Non EQUI Join
+- 비등가조인

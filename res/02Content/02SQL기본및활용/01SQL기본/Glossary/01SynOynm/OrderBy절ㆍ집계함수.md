@@ -1,0 +1,13 @@
+- OrderBy▶️✅집계함수
+- OrderBy▶️✅COUNT
+- OrderBy▶️✅COUNT()
+- OrderBy▶️✅COUNT(*)
+- ORDER_By▶️✅COUNT(*)
+- ORDER By▶️✅COUNT(*)
+- GROUP BY 절을 시용하는 경우 ORDER BY 절에 집계 함수를 사용할 수도 있다.
+- OrderBy절ㆍ집계함수
+- OrderBy절집계함수
+- OrderByㆍ집계함수
+- OrderBy집계함수
+- OrderBy절ㆍ집계함수▶️❌From
+- OrderBy절ㆍ집계함수▶️✅FromGroupby

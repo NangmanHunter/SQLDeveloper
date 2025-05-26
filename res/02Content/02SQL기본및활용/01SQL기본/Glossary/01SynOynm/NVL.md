@@ -1,0 +1,10 @@
+- NVL
+- Null Value Logic
+- Null Value Left
+- NVL함수
+- NVL()함수
+- NVL()
+- NVL(A,B)
+- NVL(A, B)
+- 📌A=NULL▶️B
+- 📌A≠NULL▶️A

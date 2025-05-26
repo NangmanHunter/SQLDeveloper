@@ -1,0 +1,29 @@
+- Cube
+- Cube함수
+- CUBE
+- CUBE
+- GROUP BY CUBE
+- GROUP BY CUBE()
+- CUBE()
+- CUBE(A)
+- CUBE(A,B)
+- CUBE(A,B)▶️Grouping(0,0)
+- 📌CUBE(A,B)▶️(0,0)
+- CUBE(A,B)▶️Grouping(0,1)
+- 📌CUBE(A,B)▶️(0,1)
+- CUBE(A,B)▶️Grouping(1,0)
+- 📌CUBE(A,B)▶️(1,0)
+- CUBE(A,B)▶️Grouping(1,1)
+- 📌CUBE(A,B)▶️(1,1)
+- CUBE함수
+- 3차원 정육면체
+- 모든 조합을 포함하는 구조
+- 지정된 N개의 그룹 컬럼에 대해 가능한 모든 조합의 집계를 수행
+- CUBE(A,B)=GROUPING SETS((A,B)) + GROUPING SETS((A)) + GROUPING SETS((B)) + GROUPING SETS(())
+- 🚩CUBE(A,B)=GROUPING SETS((A,B)) + GROUPING SETS((A)) + GROUPING SETS((B)) + GROUPING SETS(())
+- CUBE(A,B)=GROUPING SETS((A,B), (A), (B), ())
+- CUBE(A,B)=GROUPING SETS((), (A), (B), (A,B))
+- CUBE(A,B)=GROUPING SETS((A), (B), (A,B), ())
+- CUBE(A,B)=GROUPING SETS((), (B), (A), (A,B))
+- CUBE(A,B)=GROUPING SETS(()) + GROUPING SETS((B)) + GROUPING SETS((A)) + GROUPING SETS((A,B))
+- CUBE(A,B)=GROUPING SETS(()) + GROUPING SETS((A)) + GROUPING SETS((B)) + GROUPING SETS((A,B))

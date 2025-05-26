@@ -1,0 +1,11 @@
+- SearchedCaseExpression
+- Searched CaseExpression
+- SearchedCase Expression
+- SearchedCase
+- Searched Case Expression
+- Searched
+- SEARCHED_CASE_EXPRESSION
+- WHEN 00
+- WHEN 00 00
+- WHEN AA
+- WHEN AA BB
