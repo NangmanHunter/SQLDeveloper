@@ -1,0 +1,11 @@
+- Window함수
+- Window
+- 윈도우 함수(Window Function, Analytic Function)
+- 윈도우 함수
+- 윈도우함수
+- Window Function
+- WindowFunction
+- WF
+- Analytic Function
+- AnalyticFunction
+- AF
