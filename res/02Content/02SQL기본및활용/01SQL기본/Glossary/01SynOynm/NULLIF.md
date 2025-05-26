@@ -1,0 +1,10 @@
+- NULLIF
+- NULLIF함수
+- NULLIF()
+- NULLIF(A,B)
+- NULLIF(A, B)
+- 📌A=B▶️NULL
+- 📌A≠B▶️A
+- NULLIF()함수
+- NullIf
+- Null If

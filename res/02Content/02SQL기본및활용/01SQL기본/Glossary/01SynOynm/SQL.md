@@ -1,5 +1,9 @@
 - SQL(Structured Query Language)
 - SQL
+- SQL명령
+- SQL명령어
+- SQL문장
+- SQL문장들
 - Structured Query Language
 - Structured QueryLanguage
 - StructuredQueryLanguage

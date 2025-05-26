@@ -1,0 +1,12 @@
+- SimpleCaseExpression
+- Simple CaseExpression
+- Simple
+- SimpleCase Expression
+- SimpleCase
+- SIMPPLE_CASE_EXPRESSION
+- EQUI(=)
+- EQUI
+- (=)
+- =
+- 00 WHEN 00
+- AA WHEN BB

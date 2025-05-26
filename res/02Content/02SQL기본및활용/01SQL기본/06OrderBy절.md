@@ -42,10 +42,19 @@ ROWNUM
   WHERE ROWNUM <4 ;
   ```
 
-TOP()
+TOP
 - SQLServer
 - ```sql
   SELECT TOP(2) ENAME, SAL
   FROM EMP
   ORDER BY SAL DESC;
   ```
+
+TOPSyntax
+- ```sql
+  TOP(Expression) [PERCENT] [WITH TIES]
+  ```
+-  PERCENT
+   -  비율기준
+-  WITH TIES
+   -  공동출력

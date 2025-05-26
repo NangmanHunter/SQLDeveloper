@@ -1,7 +1,11 @@
 - 절차형SQL
+- 절차적SQL
 - 절차SQL
 - 절차형 SQL
 - Procedural SQL
+- 절차적데이터언어
+- ProceduralDataLanguage
+- PDL
 - Oracle▶️Procedural Language/Structured Query Language
 - Oracle▶️ProceduralLanguage/StructuredQueryLanguage
 - Oracle▶️PL/SQL
