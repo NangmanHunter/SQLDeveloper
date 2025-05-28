@@ -9,3 +9,7 @@
 - 비자동커밋
 - PassiveCommit
 - MC
+- 사용자커밋
+- 사용자 커밋
+- UserCommit
+- User Commit

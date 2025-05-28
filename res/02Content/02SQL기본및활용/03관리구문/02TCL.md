@@ -18,6 +18,8 @@ TCL
 - 일관성
 - 고립성
 - 지속성
+
+
 ## COMMIT
 - 트랜잭션을 완료
 - Locking
@@ -27,6 +29,9 @@ SQLServer의 COMMIT
   - 수동커밋
 - SQLServer
   - 자동커밋
+
+
+
 
 3가지방식
 - AUTO COMMIT
@@ -41,6 +46,8 @@ SQLServer의 COMMIT
       - COMMIT
     - ROLLBACK TRANSACTION
       - ROLLBACK
+
+
 ## ROLLBACK
 - 변경사항 취소
 
@@ -53,6 +60,8 @@ COMMITㆍROLLBACK효과
 - 데이터무결성보장
 - 영구적변경전 데이터변경사항 확인가능
 - 논리적 연관작업을 그룹핑하여 처리가능
+
+
 ## SAVEPOINT
 - ```sql
   SAVEPOINT SVPT1;
@@ -71,7 +80,6 @@ SQLServer
 
 
 정리
-
 - TCL대상
   - INSERT
   - UDPATE

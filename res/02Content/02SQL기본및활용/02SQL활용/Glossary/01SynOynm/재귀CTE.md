@@ -1,0 +1,17 @@
+- CTE재귀
+- 재귀CTE
+- 재귀
+- 동일테이블참조
+- 동일참조
+- 재귀쿼리
+- 재귀쿼리▶️동일참조
+- 재귀쿼리▶️동일테이블참조
+- CTE재귀호출
+- 재귀 CTE(Common Table Expression)
+- 재귀 WITH절(Common Table Expression, CTE)
+- WITH_TAB B는 아직 완전히 정의되지 않았지만, 재귀 CTE에서는 자신을 참조할 수 있게 설계되어 있어요.
+- UNION ALL윗부분  ▶️StartWith느낌ㆍ단일시작
+- UNION ALL아랫부분▶️ConnectBy느낌ㆍ계속진행
+- 동일테이블참조▶️계층쿼리느낌
+- 동일테이블참조▶️계층쿼리화느낌
+- 동일테이블참조▶️계층쿼리처리느낌

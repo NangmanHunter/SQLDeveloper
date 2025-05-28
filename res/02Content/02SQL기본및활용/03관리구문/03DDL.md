@@ -28,18 +28,35 @@
 
 ## CREATE TABLE
 ### 테이블과 칼럼 정의
-
 CREATE TABLE
-```sql
-CREATE TABLE 테이블이름(
-  칼럼명1 DATATYPE [DEFAULT 형식],
-  칼럼명2 DATATYPE [DEFAULT 형식],
-  칼럼명3 DATATYPE [DEFAULT 형식]
-);
+- 테이블명
 
-```
-- ✅문자시작
-- ❌숫자시작
+- Syntax
+  - ```sql
+    CREATE TABLE 테이블명(
+      칼럼명1 DATATYPE [DEFAULT 형식],
+      칼럼명2 DATATYPE [DEFAULT 형식],
+      칼럼명3 DATATYPE [DEFAULT 형식]
+    );
+    ```
+  - ```sql
+    CREATE TABLE 테이블명(
+      칼럼명1 DATATYPE [DEFAULT 형식]
+      ,칼럼명2 DATATYPE [DEFAULT 형식]
+      ,칼럼명3 DATATYPE [DEFAULT 형식]
+    );
+    ```
+  - ```sql
+    CREATE TABLE 테이블명(
+      칼럼명1 DATATYPE [DEFAULT 형식]
+      ,칼럼명2 DATATYPE [DEFAULT 형식]
+      ,칼럼명3 DATATYPE [DEFAULT 형식]
+      ,칼럼명3 DATATYPE [DEFAULT 형식]
+      ,CONSTRAINT 제약조건명 제약조건 (칼럼명)
+    );
+    ```
+
+
 
 ### 제약조건(CONSTRAINT)
 - 제약조건의 종류
@@ -98,21 +115,20 @@ DROP COLUMN 칼럼명;
 ```
 
 ### MODIFY COLUMN
-Oracle
-```sql
-ALTER TABLE 테이블명
-MODIFY (칼럼명1 데이터유형 [DEFAULT 식] [NOT NULL],
-        칼럼명2 데이터유형 [DEFAULT 식] [NOT NULL]
-)
-```
-
-SQLServer
-```sql
-ALTER TABLE 테이블명
-ALTER (칼럼명1 데이터유형 [DEFAULT 식] [NOT NULL],
-       칼럼명2 데이터유형 [DEFAULT 식] [NOT NULL]
-)
-```
+- Oracle
+  - MODIFY
+  - ```sql
+    ALTER TABLE 테이블명
+    MODIFY (칼럼명1 데이터유형 [DEFAULT 식] [NOT NULL],
+            칼럼명2 데이터유형 [DEFAULT 식] [NOT NULL]
+    )
+    ```
+- SQLServer
+  - ALTER COLUMN
+  - ```sql
+    ALTER TABLE 테이블명
+    ALTER COLUMN 칼럼명 데이터유형 [DEFAULT 식] [NOT NULL]
+    ```
 
 특징
 - ✅늘림크기
@@ -124,6 +140,7 @@ ALTER (칼럼명1 데이터유형 [DEFAULT 식] [NOT NULL],
   - ✅이후데이터영향
 - NOT NULL조건
   - NULL없을경우만
+
 
 
 ### RENAME COLUMN
@@ -141,7 +158,8 @@ sp_rename 칼럼명, 칼럼명, 'COLUMN';
 
 ### DROP CONSTRAINT
 ```sql
-ALTER TABLE 테이블명 DROP CONSTRAINT 제약조건명;
+ALTER TABLE 테이블명 
+DROP CONSTRAINT 제약조건명;
 ```
 
 ### ADD CONSTRAINT
@@ -166,6 +184,7 @@ DROP TABLE 테이블명 [CASCADE CONSTRAINT];
 ```
 - CASCADE옵션
 - CASCADE CONSTRAINT
+
 ## TRUNCATE TABLE
 ```sql
 TRUNCATE TABLE 테이블명;

@@ -1,0 +1,5 @@
+- Floor
+- FLOOR
+- FLOOR()
+- 내림
+- FLOOR(-3.9)▶️-4

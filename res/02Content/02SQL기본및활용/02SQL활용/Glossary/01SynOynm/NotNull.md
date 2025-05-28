@@ -1,0 +1,10 @@
+- NotNull
+- Not Null
+- NOT NULL
+- NOT NULL = ''
+- 명시적으로 NULL 입력을 방지
+- NULL 입력을 방지
+- NULL 입력을방지
+- NULL 입력방지
+- NULL입력방지
+- 명시적으로 지정해야함

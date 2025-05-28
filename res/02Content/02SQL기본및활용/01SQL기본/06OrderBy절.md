@@ -18,9 +18,11 @@ Null
 - Oracle
   - 가장큰값
   - 맨뒤(ASC)
+  - 123 ... NULL
 - SQLServer
   - 가장작은값
   - 맨앞(ASC)
+  - NULL 123 ...
 
 ## SELECT문장실행순서
 ```sql

@@ -1,0 +1,7 @@
+- SetNull
+- SetNull옵션
+- Set Null
+- SET NULL
+- SET NULL옵션
+- 자식NULL
+- 상속NULL

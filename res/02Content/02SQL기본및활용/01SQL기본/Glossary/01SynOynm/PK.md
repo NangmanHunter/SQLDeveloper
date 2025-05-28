@@ -4,3 +4,5 @@
 - 기본키
 - 주요키
 - 주키
+- PK = UNIQUE & NOT NULL
+- PK = UNIQUE + NOT NULL

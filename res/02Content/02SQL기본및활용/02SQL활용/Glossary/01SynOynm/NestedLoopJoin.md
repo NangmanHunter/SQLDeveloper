@@ -1,0 +1,11 @@
+- NestedLoopJoin
+- Nested Loop Join
+- NESTED LOOP JOIN
+- NESTED LOOP JOIN (중첩 루프 조인)
+- 중첩 루프 조인
+- 중첩루프 조인
+- 중첩루프조인
+- 외부 테이블의 각 행마다 내부 테이블을 검색
+- 단순하고 직관적
+- 내부 테이블이 크면 느림
+- 소량의 데이터에 적합

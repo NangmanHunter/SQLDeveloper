@@ -19,11 +19,10 @@
 - 3차원 정육면체
 - 모든 조합을 포함하는 구조
 - 지정된 N개의 그룹 컬럼에 대해 가능한 모든 조합의 집계를 수행
-- CUBE(A,B)=GROUPING SETS((A,B)) + GROUPING SETS((A)) + GROUPING SETS((B)) + GROUPING SETS(())
-- 🚩CUBE(A,B)=GROUPING SETS((A,B)) + GROUPING SETS((A)) + GROUPING SETS((B)) + GROUPING SETS(())
+- 결합 가능한 모든 값에 대하여 다차원 집계를 생성
 - CUBE(A,B)=GROUPING SETS((A,B), (A), (B), ())
 - CUBE(A,B)=GROUPING SETS((), (A), (B), (A,B))
 - CUBE(A,B)=GROUPING SETS((A), (B), (A,B), ())
 - CUBE(A,B)=GROUPING SETS((), (B), (A), (A,B))
 - CUBE(A,B)=GROUPING SETS(()) + GROUPING SETS((B)) + GROUPING SETS((A)) + GROUPING SETS((A,B))
-- CUBE(A,B)=GROUPING SETS(()) + GROUPING SETS((A)) + GROUPING SETS((B)) + GROUPING SETS((A,B))
+- ✅부담

@@ -1,0 +1,8 @@
+- Sum
+- SUM
+- SUM()
+- SUM(A+B)≠SUM(A)+SUM(B)
+- SUM(A)=ΣNVL(A,0)
+- SUM(A)=Σ NVL(A,0)
+- SUM함수
+- Sum함수

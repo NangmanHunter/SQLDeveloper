@@ -1,9 +1,13 @@
 - RowNumber
 - RowNumber함수
+- RowNumber 함수
 - Row Number
 - Row_Number
 - ROW_NUMBER
 - ROW_NUMBER함수
+- ROW_NUMBER 함수
+- ROW_NUMBERFunction
+- ROW_NUMBER Function
 - ROW_NUMBER()
 - ROW_NUMBER() OVER
 - ROW_NUMBER() OVER ()
@@ -27,9 +31,29 @@
 - 전부비동일
 - 전부상이
 - 전부다름
+- 전부차등
 - 고유순위
 - 동값고유순위
 - 단순행번호
 - 행번호
 - 1234
 - 123
+- 비통일등수
+- 동일값비통일등수
+- 동일값비동일등수
+- 동일점수비통일등수
+- 동일점수비동일등수
+- 순위비중복
+- 비중복순위
+- 순위유일
+- ✅순위유일
+- 유일순위
+- ✅유일순위
+- 유일
+- ✅유일
+- 순위연속
+- ✅순위연속
+- ❌순위단속
+- ❌순위중복ㆍ❌순위단속
+- ❌중복ㆍ❌단속
+- ❌중복순위ㆍ❌단속순위

@@ -13,8 +13,11 @@
 - ROLLUP함수
 - 그룹별로 총합(소계, 전체 합계 등)을 자동으로 계산해주는 집계 함수
 - GROUP BY A, B;
+- GROUP BY ROLLUP(A, B)
+- GROUP BY ROLLUP(A, B) = GROUP BY A, B + 소계ㆍ합계
 - GROUP BY ROLLUP(A, B);
 - ROLLUP(지역, 상품) → 지역 + 상품 → 지역 소계 → 전체 합계
+- ROLLUP(A)=GROUPING SETS((A)) + GROUPING SETS(()) 
 - ROLLUP(A)▶️합계
 - ROLLUP(A)▶️소계
 - ROLLUP(A)▶️합계(소계)
@@ -42,9 +45,7 @@
 - ROLLUP(A,B)▶️Grouping(1,1)
 - 📌ROLLUP(A,B)▶️(1,1)
 - ROLLUP(A,B)=GROUPING SETS((A,B)) + GROUPING SETS((A)) + GROUPING SETS(())
-- 🚩ROLLUP(A,B)=GROUPING SETS((A,B)) + GROUPING SETS((A)) + GROUPING SETS(())
 - ROLLUP(A,B)=GROUPING SETS((A,B), (A), ())
 - ROLLUP(A,B)=GROUPING SETS((A), (A,B), ())
-- ROLLUP(A,B)=GROUPING SETS(()) + GROUPING SETS((A)) + GROUPING SETS((A,B))
 - 무언가를 차례대로 “말아 올리다”, “쌓아 올리다”
 - 여러 그룹 수준의 소계(subtotals)를 위로 점점 요약해 나가는 구조

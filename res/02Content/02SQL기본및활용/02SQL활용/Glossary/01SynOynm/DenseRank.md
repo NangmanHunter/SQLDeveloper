@@ -1,10 +1,14 @@
 - DenseRank
 - DenseRank함수
+- DenseRank 함수
 - Dense Rank
 - Dense_Rank
 - DENSE RANK
 - DENSE_RANK
 - DENSE_RANK함수
+- DENSE_RANK 함수
+- DENSE_RANK Function
+- DENSE_RANKFunction
 - DENSE_RANK()
 - DENSE_RANK() OVER
 - DENSE_RANK() OVER ()
@@ -36,3 +40,14 @@
 - 동일한순위일건취급
 - 동일한순위일건
 - 1223
+- 순위연속
+- ✅순위연속
+- ✅순위중복
+- ❌순위단속
+- ❌순위불연속
+- 중복순위
+- 순위중복
+- 중복
+- ✅순위중복ㆍ❌순위단속
+- ✅중복순위ㆍ❌단속순위
+- ✅중복ㆍ❌단속

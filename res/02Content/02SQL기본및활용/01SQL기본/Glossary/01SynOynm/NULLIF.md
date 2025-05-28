@@ -3,8 +3,16 @@
 - NULLIF()
 - NULLIF(A,B)
 - NULLIF(A, B)
+- 📌NULLIF(A, B)
 - 📌A=B▶️NULL
 - 📌A≠B▶️A
 - NULLIF()함수
 - NullIf
+- NullIf함수
 - Null If
+- Null If equal
+- Null If Equal
+- 👉NULLIF(EXPR1, EXPR2)
+- 👉EXPR1=EXPR2▶️NULL
+- 👉EXPR1≠EXPR2▶️EXPR1
+- NULL if equal

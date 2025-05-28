@@ -1,3 +1,22 @@
 - Lead
+- Lead함수
 - LEAD
+- LEAD()
+- LEAD(A)
+- LEAD(A)=LEAD(A,1)
+- LEAD(A,1)
+- LEAD(A, 1)
+- LEAD(A,2)
+- LEAD(A, 2)
+- LEAD함수
+- 후
 - 이후
+- 이후행
+- 이후행함수
+- 이후함수
+- ↓
+- 아래쪽
+- 선도
+- 다음
+- 하향
+- 하

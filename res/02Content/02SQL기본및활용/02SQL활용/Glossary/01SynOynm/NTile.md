@@ -1,0 +1,22 @@
+- NTile
+- nTile
+- Ntile
+- ntile
+- n tile
+- N Tile
+- NTILE
+- NTILE()
+- NTILE(N)
+- NTILE(n)
+- NTILE(ARGUMENT)
+- NTILE함수
+- N
+- n
+- N등분
+- N등분함수
+- ARGUMENT N등분한결과
+- ARGUMENT N등분결과
+- ARGUMENT=N등분결과
+- ARGUMENT(=N)등분결과
+- ARGUMENT(N)등분결과
+- N(ARGUMENT)등분결과

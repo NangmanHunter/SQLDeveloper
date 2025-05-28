@@ -4,3 +4,5 @@
 - 비수동
 - 비수동커밋
 - AC
+- 📌Oracle   ▶️DDL수행후ㆍ✅AutoCommit
+- 📌SQLServer▶️DDL수행후ㆍ❌AutoCommit

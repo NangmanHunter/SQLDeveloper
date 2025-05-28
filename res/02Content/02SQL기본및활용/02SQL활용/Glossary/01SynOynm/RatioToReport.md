@@ -1,0 +1,14 @@
+- RATIO_TO_REPORT함수
+- RATIO_TO_REPORT
+- RATIO_TO_REPORT()
+- RATIO TO REPORT
+- RatioToReport
+- RatioToReport함수
+- Ratio To Report
+- TO_REPORT
+- 보고하기위한
+- 보고하기위한 소수점
+- 보고하기위한소수점
+- 소수점
+- 백분율을 소수점으로
+- 소수점함수

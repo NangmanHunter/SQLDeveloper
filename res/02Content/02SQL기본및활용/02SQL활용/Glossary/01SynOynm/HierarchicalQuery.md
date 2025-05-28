@@ -1,4 +1,12 @@
 - HierarchicalQuery
 - Hierarchical Query
 - 계층형질의
+- 계층형질의ㆍWhere절
+- 계층형질의ㆍWhere절▶️마지막적용
+- 계층형질의ㆍWhere절▶️필터조건
+- 계층형질의ㆍWhere절▶️전개이후필터조건
+- 계층형질의ㆍWhere절▶️전개이후ㆍ필터조건
+- 계층형질의ㆍWhere절▶️ConnectByㆍWhere
+- 계층형질의ㆍWhere절▶️ConnectㆍWhere
 - 계층형 질의
+- 오라클의 계층형 질의문에서 WHERE 절은 모든 전개를 진행한 이후 필터 조건으로서 조건을 만족하는 데이터만을 추출하는데 활용된다.

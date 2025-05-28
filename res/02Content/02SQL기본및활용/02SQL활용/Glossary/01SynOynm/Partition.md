@@ -1,9 +1,23 @@
 - Partition
 - PARTITION
 - PARTITION BY
+- (PARTITION BY)
+- OVER (PARTITION BY)
+- Window함수 OVER (PARTITION BY)
+- Window함수() OVER (PARTITION BY)
+- PARTITION BY ...
+- (PARTITION BY ...)
+- OVER (PARTITION BY ...)
+- Window함수 OVER (PARTITION BY ...)
+- Window함수() OVER (PARTITION BY ...)
+- 📌RANK() OVER (PARTITION BY ...)
+- 📌DENSE_RANK() OVER (PARTITION BY ...)
+- 📌ROW_NUMBER() OVER (PARTITION BY ...)
 - PARTITION BY절
 - PARTITION BY 절
 - Group By 구문과 의미적으로 유사
+- Partition 과 Group By 구문은 의미적으로 유사하다
+- Partition 과 Group By 구문은 의미적으로 유사
 - 부분
 - 파티션
 - 전체집합을 기준에의해 소그룹으로 나눌수있다

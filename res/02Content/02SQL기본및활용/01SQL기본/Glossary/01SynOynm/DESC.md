@@ -1,5 +1,8 @@
 - DESC(Descending)
 - DESC
+- 00 DESC
+- A DESC
+- 1 DESC
 - Descending
 - DESCending
 - 조회한데이터를내림차순으로정렬한다

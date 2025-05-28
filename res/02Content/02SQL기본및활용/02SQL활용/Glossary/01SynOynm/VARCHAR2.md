@@ -1,0 +1,4 @@
+- VARCHAR2
+- VARCHAR2()
+- VARCHAR2▶️✅'1'
+- VARCHAR2▶️✅1

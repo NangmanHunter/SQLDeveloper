@@ -14,3 +14,4 @@
 - WHERE EXISTS ()
 - WHERE EXISTS (SELECT)
 - WHERE EXISTS (SELECT 1)
+- 중복된 행을 하나의 행으로 표시

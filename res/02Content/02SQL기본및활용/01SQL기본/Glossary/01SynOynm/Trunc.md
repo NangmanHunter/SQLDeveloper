@@ -1,0 +1,4 @@
+- Trunc
+- TRUNC
+- TRUNC()
+- TRUNC(-3.9)▶️-3

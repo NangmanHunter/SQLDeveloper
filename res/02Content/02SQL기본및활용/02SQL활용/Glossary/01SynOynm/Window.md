@@ -9,3 +9,26 @@
 - Analytic Function
 - AnalyticFunction
 - AF
+- WF
+- WINDOW FUNCTION
+- 분석함수
+- 분석함수(ANALYTIC FUNCTION)
+- ANALYTIC FUNCTION
+- WINDOW FUNCTION▶️순위함수
+- WINDOW FUNCTION▶️순위함수(RANK FUNCTION)
+- 윈도우함수(WINDOW FUNCTION)
+- RANK FUNCTION
+- Window함수()
+- Window함수() OVER
+- OVER
+- Window함수() OVER()
+- OVER()
+- Window함수() OVER(PARTITION ... ORDER ... ROEW BETWEEN ...)
+- OVER(PARTITION ... ORDER ... ROEW BETWEEN ...)
+- Window함수▶️From절
+- Window함수▶️Select절 + GroupBy절
+- ❌GROUP BY 구문과 Window function 은 병행사용
+- ❌GROUP BY 00 + OVER(PARTITION BY 00)
+- ❌GROUP BY 00 + SELECT ... OVER(PARTITION BY 00)
+- ❌GROUP BY 00 + SELECT ... 윈도우함수() OVER(PARTITION BY 00)
+- 윈도우 함수는 각 행에 대해 계산해서 반환하므로, 원본 행이 유지돼야
