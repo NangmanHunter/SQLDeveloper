@@ -71,10 +71,11 @@ ALIAS부여
 ### 합성연산자
 - 문자+문자
 
-특징
+연산자
 - ||
   - Oracle
 - \+
   - SQLServer
+
+함수
 - CONCAT
-  - CONCAT (string1, string2)

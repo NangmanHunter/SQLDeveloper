@@ -11,6 +11,9 @@
 - ISㆍNULL연산자
 - ISㆍNULL
 - ISNULL
+- IS NULL
+- 00 IS NULL
+- ㅇ IS NULL
 - ISㆍNULL 연산자
 - IsㆍNull 연산자
 - IsㆍNull연산자

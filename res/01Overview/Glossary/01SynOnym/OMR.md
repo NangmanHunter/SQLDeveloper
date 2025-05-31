@@ -1,0 +1,11 @@
+﻿- OMR
+- OMR마킹
+- OMR카드
+- OMR카드마킹
+- OMR카드방식
+- Optical Mark Recognition
+- OpticalMarkRecognition
+- 광학 마크 판독
+- 광학마크판독
+- 마킹
+- 카드마킹

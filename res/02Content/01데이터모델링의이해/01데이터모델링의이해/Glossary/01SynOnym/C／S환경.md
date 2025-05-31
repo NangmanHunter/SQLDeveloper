@@ -1,7 +1,7 @@
-- C／S환경
-- C/S환경
+﻿- C/S
 - C/S(Client/Server)환경
-- C/S
+- C/S환경
+- C／S환경
 - Client/Server
 - Client/Server환경
 - ClientServer

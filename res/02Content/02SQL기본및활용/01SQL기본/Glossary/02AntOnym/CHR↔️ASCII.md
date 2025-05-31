@@ -1,2 +1,2 @@
+﻿- CHR()↔️ASCII()
 - CHR↔️ASCII
-- CHR()↔️ASCII()

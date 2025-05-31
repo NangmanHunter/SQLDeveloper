@@ -2,7 +2,16 @@
 - NULLIF함수
 - NULLIF()
 - NULLIF(A,B)
+- NULLIF(A,A1)
+- NULLIF(A1,A2)
+- NULLIF(A,B)▶️NULLㆍA
+- NULLIF(A,B)=NULLㆍA
+- NULLIF(A,B)=NㆍA
+- NULLIF(A,B)=NA
 - NULLIF(A, B)
+- A=B
+- =B
+- B
 - 📌NULLIF(A, B)
 - 📌A=B▶️NULL
 - 📌A≠B▶️A

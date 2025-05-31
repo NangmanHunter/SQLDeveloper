@@ -1,0 +1,5 @@
+- MergeInto
+- Merge Into
+- MERGE INTO
+- MERGE 에서의 DELETE 구문은 DELETE 단독 구문이 아닌 UPDATE 구문에 종속
+- UPDATE 실행된 건에 한해서 DELETE 구문이 수행

@@ -1,13 +1,26 @@
-- ERD(Entity Relationship Diagram)
-- ERD
+﻿- 1976년
+- 1976년 피터첸（Peter Chen）
+- DM(TAR)▶️ERD(EAR)
+- DM▶️ERD
+- Entity Relationship
 - Entity Relationship Diagram
 - EntityRelationship Diagram
-- EntityRelationshipDiagram
-- 📌ERD▶️엔터티ㆍ관계ㆍ속성
-- 📌ERD▶️EntityㆍRelationshipㆍAttribute
-- 📌ERD▶️ERA
 - Entity-Relationship Model（E-R Model） 
 - Entity-Relationship Model（E-R Model）표기법
-- 1976년 피터첸（Peter Chen）
-- 1976년
+- EntityRelationshipDiagram
+- EntityㆍRelationship
+- ER
+- ERD
+- ERD(Entity Relationship Diagram)
+- EㆍR
+- EㆍRD
+- TAR(DM)▶️EAR(ERD)
+- TAR▶️EAR
+- 📌ERD▶️EAR
+- 📌ERD▶️EntityㆍAttributeㆍRelationship
+- 📌ERD▶️EntityㆍRelationshipㆍAttribute
+- 📌ERD▶️ERA
+- 📌ERD▶️엔터티ㆍ관계
+- 📌ERD▶️엔터티ㆍ관계ㆍ속성
+- 📌ERD▶️엔터티ㆍ속성ㆍ관계
 - 피터첸（Peter Chen）

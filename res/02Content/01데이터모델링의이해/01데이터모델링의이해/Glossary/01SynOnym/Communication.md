@@ -1,6 +1,6 @@
-- 의사소통(Communication)
-- 의사소통
-- Communication
-- ComMunication
-- C
+﻿- C
 - CM
+- ComMunication
+- Communication
+- 의사소통
+- 의사소통(Communication)

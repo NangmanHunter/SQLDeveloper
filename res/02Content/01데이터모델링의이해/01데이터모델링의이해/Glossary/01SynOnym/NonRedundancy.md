@@ -1,6 +1,6 @@
-- 중복배제(Non-Redundancy)
-- 중복배제
-- Non-Redundancy
+﻿- N
 - NonRedundancy
+- Non-Redundancy
 - NR
-- N
+- 중복배제
+- 중복배제(Non-Redundancy)

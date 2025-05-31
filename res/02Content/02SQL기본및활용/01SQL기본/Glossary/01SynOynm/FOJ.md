@@ -9,4 +9,5 @@
 - FULL
 - FULL조인
 - FOJ
+- FOJ=LOJ+ROJ-IJ
 - FJ

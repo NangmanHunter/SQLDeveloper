@@ -1,3 +1,3 @@
+﻿- NESTED LOOP JOIN↔️HASH JOIN
 - NestedLoop↔️Hash
 - NestedLoopJoin↔️HashJoin
-- NESTED LOOP JOIN↔️HASH JOIN

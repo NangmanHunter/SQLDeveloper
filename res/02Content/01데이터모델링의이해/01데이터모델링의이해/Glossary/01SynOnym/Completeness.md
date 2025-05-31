@@ -1,6 +1,6 @@
-- 완전성(Completeness)
-- 완전성
-- Completeness
+﻿- C
 - ComPleteness
-- C
+- Completeness
 - CP
+- 완전성
+- 완전성(Completeness)

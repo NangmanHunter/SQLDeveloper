@@ -1,5 +1,5 @@
-- 데이터모델
-- 데이터 모델
+﻿- Data Model
 - DataModel
-- Data Model
 - DM
+- 데이터 모델
+- 데이터모델

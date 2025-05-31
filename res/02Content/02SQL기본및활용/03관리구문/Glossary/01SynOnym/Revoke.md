@@ -1,0 +1,9 @@
+- Revoke
+- REVOKE
+- REVOKE FROM
+- FROM
+- REVOKE 00 FROM 00
+- 회수
+- 권한회수
+- 취소
+- 권한취소

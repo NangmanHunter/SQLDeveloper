@@ -1,0 +1,6 @@
+﻿- Partition
+- Partitioning
+- Partitioning기법
+- 파티셔닝
+- 파티셔닝 기법
+- 파티셔닝기법

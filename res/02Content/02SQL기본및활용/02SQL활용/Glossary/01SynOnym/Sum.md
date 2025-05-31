@@ -1,0 +1,22 @@
+- Sum
+- SUM
+- SUM()
+- 📌SUM          ▶️전체합산
+- 📌SUM + GroupBy▶️개별합산
+- SUM(A+B)≠SUM(A)+SUM(B)
+- SUM(A)=ΣNVL(A,0)
+- SUM(A)=Σ NVL(A,0)
+- SUM함수
+- Sum함수
+- ✅SELECT SUM()
+- ✅SELECT SUM() GROUP BY NULL
+- ✅SELECT SUM() GROUP BY 1   ▶️GROUP BY 1-1-SUM-집계함수-전체-NULL동일▶️Oracle에서 처리해주는듯
+- ✅SELECT 컬럼, SUM() GROUP BY 컬럼
+- ❌SELECT 다른컬럼, SUM() GROUP BY 컬럼
+- ✅SELECT SUM() GROUP BY 1   
+- ✅SELECT SUM(COL1) FROM A GROUP BY 1 HAVING 1
+- ✅SELECT SUM(COL1) FROM A GROUP BY 1 HAVING 1  ▶️HAVING 1-1-TRUE▶️Oracle에서 처리해주는듯
+- ✅SELECT SUM(COL1) FROM A GROUP BY 1 HAVING 1=1
+- ✅NULL제외
+- ✅NULL행제외
+- ❌NULL연산

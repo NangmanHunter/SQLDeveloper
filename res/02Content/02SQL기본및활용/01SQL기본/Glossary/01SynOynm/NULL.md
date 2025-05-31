@@ -41,5 +41,6 @@
 - 행있음
 - NULL=NULL▶️UnKnown
 - NULL=NULL▶️UnKnown▶️False처럼처리
+- NULL!=NULL▶️UnKnown
 
 

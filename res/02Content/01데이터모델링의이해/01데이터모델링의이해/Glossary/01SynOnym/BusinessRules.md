@@ -1,8 +1,8 @@
-- 업무규칙(BusinessRules)
-- 업무규칙
-- BusinessRules
+﻿- BR
 - BusinessRule
+- BusinessRules
+- R
 - Rule
 - Rules
-- R
-- BR
+- 업무규칙
+- 업무규칙(BusinessRules)

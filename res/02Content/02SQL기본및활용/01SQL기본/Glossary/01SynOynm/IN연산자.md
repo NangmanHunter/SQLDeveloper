@@ -5,8 +5,18 @@
 - IN() 연산자
 - IN()
 - IN( )
+- IN ( )
 - IN
 - IN()연산자
 - IN연산자
+- IN
 - In연산자
 - In
+- IN(1, NULL)=IN(1)
+- IN(1, 2, NULL)=IN(1, 2)
+- IN('A', NULL)=IN('A')
+- (A,B) IN ((C,D))▶️✅A=B ∧ B=D
+- (A,B) IN ((C,D))▶️❌A=B ∨ B=D
+- Multiple OR
+- MultipleOR
+- A IN (B,C)▶️A=B OR A=C

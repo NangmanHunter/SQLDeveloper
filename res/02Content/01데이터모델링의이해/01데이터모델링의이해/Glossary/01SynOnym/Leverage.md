@@ -1,7 +1,7 @@
-- 파급효과(Leverage)
-- 파급효과
-- 파급효
-- Leverage
+﻿- Leverage
 - 레버리지
 - 영향력
 - 지렛대
+- 파급효
+- 파급효과
+- 파급효과(Leverage)

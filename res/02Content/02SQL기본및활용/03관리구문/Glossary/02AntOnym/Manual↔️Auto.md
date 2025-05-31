@@ -1,2 +1,2 @@
-- Manual↔️Auto
+﻿- Manual↔️Auto
 - ManualCommit↔️AutoCommit

@@ -10,5 +10,9 @@
 
 ## Null연산 
 - NULL값과의연산은 Null을 리턴 
-- 모든비교는 알수없음(Unknown) 리턴 
+- 모든비교는 Unknown 리턴 
+  - NULL=NULL ▶️UnKnown
+  - NULL!=NULL▶️UnKnown
 - 집계함수는 Null제외하고 계산 
+
+

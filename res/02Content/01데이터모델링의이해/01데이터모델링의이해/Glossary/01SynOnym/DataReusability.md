@@ -1,9 +1,9 @@
-- 데이터 재사용(Data Reusability)
-- 데이터 재사용
-- 데이터재사용
-- 재사용
-- Data Reusability
+﻿- Data Reusability
 - DataReusability
-- Reusability
 - DR
 - R
+- Reusability
+- 데이터 재사용
+- 데이터 재사용(Data Reusability)
+- 데이터재사용
+- 재사용

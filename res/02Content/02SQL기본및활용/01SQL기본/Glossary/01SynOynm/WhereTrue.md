@@ -1,0 +1,12 @@
+- Where1
+- Where 1
+- WHERE 1
+- WHERE 1=1
+- WHERE TRUE
+- WhereTrue
+- Where True
+- ''
+- 📌FROM 🛢️00 
+- 📌FROM 🛢️00 WHERE 1
+- 📌FROM 🛢️00 WHERE 1=1
+- 📌FROM 🛢️00 WHERE TRUE

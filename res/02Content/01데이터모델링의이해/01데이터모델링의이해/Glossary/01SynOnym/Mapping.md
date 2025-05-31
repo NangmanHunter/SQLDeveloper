@@ -1,3 +1,3 @@
-- 사상(Mapping)
+﻿- Mapping
 - 사상
-- Mapping
+- 사상(Mapping)

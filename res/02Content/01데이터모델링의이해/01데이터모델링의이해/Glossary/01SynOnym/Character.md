@@ -1,18 +1,18 @@
+﻿- C
+- Character
 - Character of a Thing
+- Character of Thing
 - Character ofaThing
 - Character OfAThing
-- CharacterOfAThing
-- Character of Thing
-- Character ofThing
 - Character OfThing
+- Character ofThing
+- CharacterOfAThing
 - CharacterOfThing
 - CharacterOfThing
-- COT
 - COAT
-- C
-- Character
+- COT
+- 성격
 - 어떤 것의 성격
 - 어떤 것의 성격(Character of a Thing)
 - 어떤것의 성격
 - 어떤것의성격
-- 성격

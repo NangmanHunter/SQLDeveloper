@@ -1,0 +1,19 @@
+- 제일먼저나오는것을 0
+- 제일먼저나오는것=0
+- 행의순서별 백분율
+- 제일늦게나오는것을 1
+- 제일늦게나오는것=1
+- PERCENT_RANK함수
+- PERCENT_RANK
+- PERCENT RANK
+- 0<= <=1
+- 0≤ ≤1
+- 0 ... 1
+- 0, ... ,1
+- PERCENT_RANK()
+- PercentRank
+- Percent Rank
+- 0
+- 0이상함수
+- 0이상
+- 0부터함수

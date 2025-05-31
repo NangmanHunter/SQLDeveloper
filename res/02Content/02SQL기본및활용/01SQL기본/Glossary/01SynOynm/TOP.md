@@ -6,3 +6,10 @@
 - TOP조건
 - TOP구문
 - TOP ()
+- TOP()=✅FROM() ROWNUM
+- TOP()≠❌FROM(ROWNUM) 
+- 📌TOP          ▶️ROWNUM
+- 📌TOP WITH TIES▶️DENSE_RANK
+- ROWNUM
+- ROW_NUMBER()
+- ROW_NUMBER

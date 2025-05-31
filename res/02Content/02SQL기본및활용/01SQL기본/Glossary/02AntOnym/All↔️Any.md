@@ -1,0 +1,2 @@
+﻿- ALL↔️ANY
+- All↔️Any

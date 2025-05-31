@@ -1,0 +1,64 @@
+- RollUp
+- rollup
+- rollUp
+- RollUp함수
+- Rollup함수
+- Rollup
+- RollUP
+- ROLLUP
+- GROUP BY ROLLUP
+- GROUP BY ROLLUP()
+- ROLL UP
+- ROLL UP함수
+- ROLLUP함수
+- 그룹별로 총합(소계, 전체 합계 등)을 자동으로 계산해주는 집계 함수
+- GROUP BY A, B;
+- GROUP BY ROLLUP(A, B)
+- GROUP BY ROLLUP(A, B) = GROUP BY A, B + 소계ㆍ합계
+- GROUP BY ROLLUP(A, B);
+- ROLLUP(지역, 상품) → 지역 + 상품 → 지역 소계 → 전체 합계
+- ROLLUP(A)=GROUPING SETS((A), ()) 
+- ROLLUP(A)▶️기준+합계
+- ROLLUP(A)▶️기준대상+합계대상
+- ROLLUP(A)▶️합계
+- ROLLUP(A)▶️소계
+- ROLLUP(A)▶️합계(소계)
+- ROLLUP(A,B)▶️소계ㆍ합계
+- ROLLUP(A,B)≠ROLLUP(B,A)
+- 차등인자▶️ROLLUP(A,B)≠ROLLUP(B,A)
+- 비교환법칙
+- 교환법칙❌
+- 교환❌
+- ❌교환법칙
+- ❌교환
+- 차등인수
+- 차등인자
+- 차등컬럼
+- 차등컬럼명
+- 차등컬럼명순서
+- 계층인자
+- 계층인수
+- 계층집계
+- 계층컬럼
+- 계층컬럼명
+- 계층컬럼명순서
+- 계층구조집계
+- 계층구조
+- ROLLUP(A,B)
+- ROLLUP(A,B)▶️편의상✅ORDER BY A
+- ROLLUP(A,B)▶️엄밀히❌ORDER BY A
+- ROLLUP(A,B)▶️Grouping(0,0)
+- ROLLUP(A,B)▶️Grouping(0,1)
+- ROLLUP(A,B)▶️Grouping(1,1)
+- 📌ROLLUP(A,B)▶️(0,0)
+- 📌ROLLUP(A,B)▶️(0,1)
+- 📌ROLLUP(A,B)▶️(1,1)
+- ROLLUP(A,B)=GROUPING SETS((A,B), (A), ())
+- 무언가를 차례대로 “말아 올리다”, “쌓아 올리다”
+- 여러 그룹 수준의 소계(subtotals)를 위로 점점 요약해 나가는 구조
+- ROLLUP(A,B)=WHERE 00 GROUP BY A,B   UNION ALL   WHERE 00 GROUP BY A   UNION ALL   WHERE 00
+- ROLLUP(A,B)=WHERE 00 GROUP BY A,B   +   WHERE 00 GROUP BY A   +   WHERE 00
+- ROLLUP(A,B)=WHERE 00 GROUP BY A,B + WHERE 00 GROUP BY A + WHERE 00
+- ROLLUP(A,B)=GROUP BY A,B   UNION ALL   GROUP BY A   UNION ALL   ''
+- ROLLUP(A,B)=GROUP BY A,B   +   GROUP BY A   +   ''
+- ROLLUP(A,B)=GROUP BY A,B + GROUP BY A + ''

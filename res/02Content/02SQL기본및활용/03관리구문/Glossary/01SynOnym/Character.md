@@ -1,0 +1,11 @@
+- Character
+- Character형
+- CHARACTER
+- CHARACTER형
+- 고정길이
+- 불변길이
+- 공간채움
+- 빈공간채움
+- 단순길이
+- 길이
+- ✅최대길이고정ㆍ✅공간길이고정

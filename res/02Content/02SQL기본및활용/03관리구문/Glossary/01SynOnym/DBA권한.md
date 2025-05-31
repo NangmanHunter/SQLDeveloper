@@ -1,0 +1,21 @@
+- DBA권한
+- DBA
+- DBA = Database Administrator (데이터베이스 관리자)
+- Database Administrator
+- DatabaseAdministrator
+- DataBase Administrator
+- DataBaseAdministrator
+- 관리자들이 갖는 최고 수준의 권한
+- 관리자들이갖는 최고 수준의 권한
+- 관리자들이갖는 최고수준의 권한
+- 관리자들이갖는 최고수준의권한
+- 관리자들이갖는 권한
+- 관리자들이갖는권한
+- 관리자권한
+- 관리자
+- 최고 수준의 권한
+- 최고수준의 권한
+- 최고수준의권한
+- 최고수준권한
+- 최고권한
+- Administrator

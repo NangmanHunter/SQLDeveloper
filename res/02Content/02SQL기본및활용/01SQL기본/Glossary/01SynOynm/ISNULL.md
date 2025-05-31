@@ -2,8 +2,14 @@
 - ISNULL함수
 - ISNULL()
 - ISNULL(A,B)
+- ISNULL(A,B)=BA
+- ISNULL(A,B)=BㆍA
+- ISNULL(A,B)▶️BㆍA
 - ISNULL(A, B)
 - ISNULL()함수
 - IsNull
+- A=NULL
+- =NULL
+- NULL
 - 📌A=NULL▶️B
 - 📌A≠NULL▶️A

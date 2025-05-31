@@ -1,0 +1,2 @@
+﻿- PRECEDING↔️FOLLOWING
+- Preceding↔️Following

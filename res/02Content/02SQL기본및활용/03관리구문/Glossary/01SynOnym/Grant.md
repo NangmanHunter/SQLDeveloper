@@ -1,0 +1,7 @@
+- Grant
+- GRANT
+- GRANT TO
+- TO
+- GRANT 00 TO 00
+- 부여
+- 권한부여

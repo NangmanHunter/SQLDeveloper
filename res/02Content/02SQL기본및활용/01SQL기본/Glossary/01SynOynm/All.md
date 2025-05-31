@@ -1,0 +1,12 @@
+- All
+- All연산자
+- All비교연산자
+- All다중행비교연산자
+- ALL
+- \> ALL = > MAX
+-  < ALL = < MIN
+- ALL연산자
+- ALL비교연산자
+- ALL다중행비교연산자
+- 모든
+- 모두

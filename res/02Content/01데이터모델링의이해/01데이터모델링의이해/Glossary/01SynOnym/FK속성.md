@@ -1,12 +1,12 @@
-- FK(Foreign Key)속성
-- FK속성(Foreign Key)
-- FK속성(Foreign Key Attribute)
-- FK속성
+﻿- FA
 - FK
-- FKAttribute
 - FK Attribute
+- FK(Foreign Key)속성
+- FKA
+- FKAttribute
+- FK속성
+- FK속성(Foreign Key Attribute)
+- FK속성(Foreign Key)
 - Foreign Key Attribute
 - ForeignKey Attribute
 - ForeignKeyAttribute
-- FKA
-- FA
