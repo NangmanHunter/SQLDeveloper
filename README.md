@@ -1,6 +1,6 @@
-# SQLDeveloper 0.0.0
+# SQLDeveloper 1.0.0
 - ⏱️2025.05.31.
-- Exam done
+- ExamDone
 
 ## FileMap
 <details>
