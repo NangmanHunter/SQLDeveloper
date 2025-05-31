@@ -1,5 +1,6 @@
 # SQLDeveloper 0.0.0
 - ⏱️2025.05.31.
+- Exam done
 
 ## FileMap
 <details>
@@ -602,6 +603,51 @@
 ├── 📄 .gitignore
 └── 📄 README.md
 ```
+</details>
+
+## AnchorFileMap
+<details>
+    <summary>📌AnchorFile</summary>
+
+
+01데이터모델링의이해
+- 01데이터모델링의이해
+  - 📄[01데이터모델의이해.md](res/02Content/01데이터모델링의이해/01데이터모델링의이해/01데이터모델의이해.md)
+  - 📄[02앤터티.md](res/02Content/01데이터모델링의이해/01데이터모델링의이해/02앤터티.md)
+  - 📄[03속성.md](res/02Content/01데이터모델링의이해/01데이터모델링의이해/03속성.md)
+  - 📄[04관계.md](res/02Content/01데이터모델링의이해/01데이터모델링의이해/04관계.md)
+  - 📄[05식별자.md](res/02Content/01데이터모델링의이해/01데이터모델링의이해/05식별자.md)
+- 02데이터모델과SQL
+  - 📄[01정규화.md](res/02Content/01데이터모델링의이해/02데이터모델과SQL/01정규화.md)
+  - 📄[02관계와조인의이해.md](res/02Content/01데이터모델링의이해/02데이터모델과SQL/02관계와조인의이해.md)
+  - 📄[03모델이표현하는트랜잭션의이해.md](res/02Content/01데이터모델링의이해/02데이터모델과SQL/03모델이표현하는트랜잭션의이해.md)
+  - 📄[04Null속성의이해.md](res/02Content/01데이터모델링의이해/02데이터모델과SQL/04Null속성의이해.md)
+  - 📄[05본질식별자vs인조식별자.md](res/02Content/01데이터모델링의이해/02데이터모델과SQL/05본질식별자vs인조식별자.md)
+
+02SQL기본및활용
+- 01SQL기본
+  - 📄[01관계형데이터베이스개요.md](res/02Content/02SQL기본및활용/01SQL기본/01관계형데이터베이스개요.md)
+  - 📄[02SELECT문.md](res/02Content/02SQL기본및활용/01SQL기본/02SELECT문.md)
+  - 📄[03함수.md](res/02Content/02SQL기본및활용/01SQL기본/03함수.md)
+  - 📄[04Where절.md](res/02Content/02SQL기본및활용/01SQL기본/04Where절.md)
+  - 📄[05GroupByㆍHaving절.md](res/02Content/02SQL기본및활용/01SQL기본/05GroupByㆍHaving절.md)
+  - 📄[06OrderBy절.md](res/02Content/02SQL기본및활용/01SQL기본/06OrderBy절.md)
+  - 📄[07조인.md](res/02Content/02SQL기본및활용/01SQL기본/07조인.md)
+  - 📄[08표준조인.md](res/02Content/02SQL기본및활용/01SQL기본/08표준조인.md)
+- 02SQL활용
+  - 📄[01서브쿼리.md](res/02Content/02SQL기본및활용/02SQL활용/01서브쿼리.md)
+  - 📄[02집합연산자.md](res/02Content/02SQL기본및활용/02SQL활용/02집합연산자.md)
+  - 📄[03그룹함수.md](res/02Content/02SQL기본및활용/02SQL활용/03그룹함수.md)
+  - 📄[04윈도우함수.md](res/02Content/02SQL기본및활용/02SQL활용/04윈도우함수.md)
+  - 📄[05TopN쿼리.md](res/02Content/02SQL기본및활용/02SQL활용/05TopN쿼리.md)
+  - 📄[06계층형질의ㆍ셀프조인.md](res/02Content/02SQL기본및활용/02SQL활용/06계층형질의ㆍ셀프조인.md)
+  - 📄[07PIVOT절ㆍUNPIVOT절.md](res/02Content/02SQL기본및활용/02SQL활용/07PIVOT절ㆍUNPIVOT절.md)
+  - 📄[08정규표현식.md](res/02Content/02SQL기본및활용/02SQL활용/08정규표현식.md)
+- 03관리구문
+  - 📄[01DML.md](res/02Content/02SQL기본및활용/03관리구문/01DML.md)
+  - 📄[02TCL.md](res/02Content/02SQL기본및활용/03관리구문/02TCL.md)
+  - 📄[03DDL.md](res/02Content/02SQL기본및활용/03관리구문/03DDL.md)
+  - 📄[04DCL.md](res/02Content/02SQL기본및활용/03관리구문/04DCL.md)
 </details>
 <details>
     <summary>⚓AnchorFileTree</summary>
