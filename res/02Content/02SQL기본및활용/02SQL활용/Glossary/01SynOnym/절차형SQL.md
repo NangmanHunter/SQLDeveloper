@@ -1,17 +1,17 @@
-- 절차형SQL
-- 절차적SQL
-- 절차SQL
-- 절차형 SQL
-- Procedural SQL
-- 절차적데이터언어
-- ProceduralDataLanguage
-- PDL
+﻿- MS▶️SQLServer▶️T-SQL
+- MS▶️Transact-SQL
+- MS▶️TSQL
+- MS▶️T-SQL
+- Oracle▶️PL/SQL
 - Oracle▶️Procedural Language/Structured Query Language
 - Oracle▶️ProceduralLanguage/StructuredQueryLanguage
-- Oracle▶️PL/SQL
-- MS▶️Transact-SQL
-- MS▶️T-SQL
-- MS▶️SQLServer▶️T-SQL
-- SQLServer▶️T-SQL
-- MS▶️TSQL
+- PDL
 - PL/SQL
+- Procedural SQL
+- ProceduralDataLanguage
+- SQLServer▶️T-SQL
+- 절차SQL
+- 절차적SQL
+- 절차적데이터언어
+- 절차형 SQL
+- 절차형SQL

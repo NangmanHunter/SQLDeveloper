@@ -1,6 +1,6 @@
-- DELETE ON TRIGGER 의 경우 :OLD 는 삭제 전 데이터를 , :NEW 는 삭제 후 데이터를 나타낸다
-- UPDATE TRIGGER 에서 :OLD 에는 수정 전, :NEW 에는 수정 후 값이 들어간다
+﻿- DELETE ON TRIGGER 의 경우 :OLD 는 삭제 전 데이터를 , :NEW 는 삭제 후 데이터를 나타낸다
 - DML 문이 수행되었을 때 자동으로 동작하도록 작성된 프로그램
-- 이벤트기반
 - Trigger
 - TRIGGER
+- UPDATE TRIGGER 에서 :OLD 에는 수정 전, :NEW 에는 수정 후 값이 들어간다
+- 이벤트기반

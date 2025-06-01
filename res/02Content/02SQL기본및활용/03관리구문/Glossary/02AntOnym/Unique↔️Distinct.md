@@ -1,2 +1,2 @@
-﻿- Unique↔️Distinct
-- UNIQUE↔️DISTINCT
+﻿- UNIQUE↔️DISTINCT
+- Unique↔️Distinct

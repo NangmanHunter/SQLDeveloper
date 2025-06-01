@@ -1,6 +1,6 @@
+﻿- COMMIT
 - Commit
-- 커밋
-- COMMIT
-- 사용자Commit
 - 비자동커밋
+- 사용자Commit
 - 수동커밋
+- 커밋

@@ -1,5 +1,5 @@
-﻿- INSERT
-- Insert
+﻿- Insert
+- INSERT
 - Row Chaining
 - Row Chaining (로우 체이닝)
 - RowChaining

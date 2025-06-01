@@ -1,9 +1,9 @@
-- 사용자에게 부여한 권한을 다른 사용자에게 다시 부여할 수 있도록 허용하는 옵션
-- 부여할 수 있도록 허용하는 옵션
-- 부여허용옵션
-- 부여허용
-- 부여옵션
-- 부여
-- WithGrantOption
-- With Grant Option
+﻿- With Grant Option
 - WITH GRANT OPTION
+- WithGrantOption
+- 부여
+- 부여옵션
+- 부여할 수 있도록 허용하는 옵션
+- 부여허용
+- 부여허용옵션
+- 사용자에게 부여한 권한을 다른 사용자에게 다시 부여할 수 있도록 허용하는 옵션

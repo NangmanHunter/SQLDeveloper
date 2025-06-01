@@ -1,15 +1,15 @@
-- ManualCommit
-- Manual Commit
-- Commit
-- Manual커밋
+﻿- Commit
 - Manual
-- 수동커밋
-- 수동
+- Manual Commit
+- ManualCommit
+- Manual커밋
+- MC
+- PassiveCommit
+- User Commit
+- UserCommit
 - 비자동
 - 비자동커밋
-- PassiveCommit
-- MC
-- 사용자커밋
 - 사용자 커밋
-- UserCommit
-- User Commit
+- 사용자커밋
+- 수동
+- 수동커밋

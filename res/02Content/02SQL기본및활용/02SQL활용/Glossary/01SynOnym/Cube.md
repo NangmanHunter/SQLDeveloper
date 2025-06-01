@@ -1,25 +1,25 @@
+﻿- ✅부담
+- 3차원 정육면체
 - Cube
-- Cube함수
 - CUBE
 - CUBE
-- GROUP BY CUBE
-- GROUP BY CUBE()
 - CUBE()
 - CUBE(A)
 - CUBE(A)=GROUPING SETS((), (A))
 - CUBE(A,B)
+- CUBE(A,B)=GROUPING SETS((), (B), (A), (A,B)) + 정렬상이(AㆍAB부분혼재 + 역순)
 - CUBE(A,B)▶️Grouping(0,0)
 - CUBE(A,B)▶️Grouping(0,1)
 - CUBE(A,B)▶️Grouping(1,0)
 - CUBE(A,B)▶️Grouping(1,1)
+- CUBE함수
+- Cube함수
+- GROUP BY CUBE
+- GROUP BY CUBE()
 - 📌CUBE(A,B)▶️(0,0)
 - 📌CUBE(A,B)▶️(0,1)
 - 📌CUBE(A,B)▶️(1,0)
 - 📌CUBE(A,B)▶️(1,1)
-- CUBE함수
-- 3차원 정육면체
+- 결합 가능한 모든 값에 대하여 다차원 집계를 생성
 - 모든 조합을 포함하는 구조
 - 지정된 N개의 그룹 컬럼에 대해 가능한 모든 조합의 집계를 수행
-- 결합 가능한 모든 값에 대하여 다차원 집계를 생성
-- CUBE(A,B)=GROUPING SETS((), (B), (A), (A,B)) + 정렬상이(AㆍAB부분혼재 + 역순)
-- ✅부담

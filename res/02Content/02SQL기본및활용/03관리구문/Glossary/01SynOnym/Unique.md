@@ -1,19 +1,19 @@
-- Unique
-- UniqueKey
-- Unique Key
-- UNIQUE
-- UNIQUE↔️NOT NULL
-- UNIQUE KEY
-- UK
+﻿- ✅NULL입력
+- CREATE
 - CREATE UNIQUE
+- DDL
 - DDL CREATE UNIQUE
 - DDLㆍCREATEㆍUNIQUE
-- CREATE
-- DDL
-- 테이블 내에서 중복되는 값이 없음
-- 중복값없음
-- 비중복값
-- 비중복
-- ✅NULL입력
-- 고유키
 - Null 값을 가질 수 있다
+- UK
+- UNIQUE
+- Unique
+- Unique Key
+- UNIQUE KEY
+- UNIQUE↔️NOT NULL
+- UniqueKey
+- 고유키
+- 비중복
+- 비중복값
+- 중복값없음
+- 테이블 내에서 중복되는 값이 없음

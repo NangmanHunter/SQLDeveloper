@@ -2,10 +2,10 @@
 - Character
 - Character of a Thing
 - Character of Thing
-- Character ofaThing
 - Character OfAThing
-- Character OfThing
+- Character ofaThing
 - Character ofThing
+- Character OfThing
 - CharacterOfAThing
 - CharacterOfThing
 - CharacterOfThing

@@ -1,7 +1,7 @@
 ﻿- T
 - Thing
-- ThingS
 - Things
+- ThingS
 - TS
 - 것
 - 어떤

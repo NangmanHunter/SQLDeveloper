@@ -1,15 +1,15 @@
-- CUME_DIST함수
-- CUME_DIST
-- CUME_DIST()
-- CUME DIST
-- 누적백분율
-- CumeDist
-- Cume Dist
-- 0< <=1
-- 0< ≤1
+﻿- 0.x
+- 0.xx
 - 0.xx ... 1
 - 0.xx, ... ,1
-- 0.xx
-- 0.x
-- 0초과함수
+- 0< <=1
+- 0< ≤1
 - 0초과
+- 0초과함수
+- CUME DIST
+- Cume Dist
+- CUME_DIST
+- CUME_DIST()
+- CUME_DIST함수
+- CumeDist
+- 누적백분율

@@ -1,27 +1,27 @@
+﻿- ✅순위단속
+- ✅순위불연속
+- ✅순위양자
+- ✅순위이격
+- ✅순위중복
+- ✅순위중복ㆍ✅순위단속
+- ✅중복순위
+- ✅중복순위ㆍ✅단속순위
+- ✅중복ㆍ✅단속
+- 1224
 - Rank
-- Rank함수
-- Rank 함수
-- RANK함수
-- RANK 함수
-- RANKFunction
+- RANK
+- RANK
 - RANK Function
-- RANK
-- RANK
+- RANK 함수
+- Rank 함수
 - RANK()
 - RANK() OVER
 - RANK() OVER ()
-- RANK() OVER (ORDER BY)
 - RANK() OVER (ORDER BY ...)
-- 1224
-- ✅순위불연속
-- ✅순위단속
-- ✅순위이격
-- ✅순위양자
-- ✅순위중복
-- ✅중복순위
-- 중복순위
+- RANK() OVER (ORDER BY)
+- RANKFunction
+- Rank함수
+- RANK함수
 - 순위중복
 - 중복
-- ✅순위중복ㆍ✅순위단속
-- ✅중복순위ㆍ✅단속순위
-- ✅중복ㆍ✅단속
+- 중복순위

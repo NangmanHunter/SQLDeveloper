@@ -1,2 +1,2 @@
-- Pseudo Column
+﻿- Pseudo Column
 - 가상컬럼

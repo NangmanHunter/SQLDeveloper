@@ -1,3 +1,3 @@
+﻿- Dirty Read
 - DirtyRead
-- Dirty Read
 - 다른 트랜잭션에 의해 수정되었지만 아직 커밋되지 않은 데이터를 읽는 것을 말한다

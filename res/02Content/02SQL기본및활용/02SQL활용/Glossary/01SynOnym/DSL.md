@@ -1,9 +1,9 @@
--  호스트 프로그램 속에 삽입되어 사용되는 DML 명령어들을 데이터 부속어 (Data Sub Language)
--  데이터 부속어 (Data Sub Language)
--  데이터 부속어
--  데이터부속어
--  Data Sub Language
+﻿-  Data Sub Language
 -  DataSubLanguage
--  DSL
--  호스트 언어(C, Java 등) 안에서 SQL 명령을 사용할 때 삽입되는 SQL 구문
 -  DML변형
+-  DSL
+-  데이터 부속어
+-  데이터 부속어 (Data Sub Language)
+-  데이터부속어
+-  호스트 언어(C, Java 등) 안에서 SQL 명령을 사용할 때 삽입되는 SQL 구문
+-  호스트 프로그램 속에 삽입되어 사용되는 DML 명령어들을 데이터 부속어 (Data Sub Language)

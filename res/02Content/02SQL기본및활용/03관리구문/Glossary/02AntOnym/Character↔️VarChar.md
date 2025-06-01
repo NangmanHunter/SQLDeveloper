@@ -1,2 +1,2 @@
-﻿- Character↔️VarChar
-- CHARACTER↔️VARCHAR
+﻿- CHARACTER↔️VARCHAR
+- Character↔️VarChar

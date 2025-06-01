@@ -1,38 +1,38 @@
-- Partition
-- PARTITION
-- PARTITION BY
+﻿- (PARTITION BY ...)
 - (PARTITION BY)
-- OVER (PARTITION BY)
-- Window함수 OVER (PARTITION BY)
-- Window함수() OVER (PARTITION BY)
-- PARTITION BY ...
-- (PARTITION BY ...)
-- OVER (PARTITION BY ...)
-- Window함수 OVER (PARTITION BY ...)
-- Window함수() OVER (PARTITION BY ...)
-- 📌RANK() OVER (PARTITION BY ...)
-- 📌DENSE_RANK() OVER (PARTITION BY ...)
-- 📌ROW_NUMBER() OVER (PARTITION BY ...)
-- PARTITION BY절
-- PARTITION BY 절
 - Group By 구문과 의미적으로 유사
-- Partition 과 Group By 구문은 의미적으로 유사하다
+- OVER (PARTITION BY ...)
+- OVER (PARTITION BY)
+- PARTITION
+- Partition
+- PARTITION BY
+- PARTITION BY ...
+- PARTITION BY 절
+- PARTITION BY절
 - Partition 과 Group By 구문은 의미적으로 유사
-- 부분
-- 파티션
-- 전체집합을 기준에의해 소그룹으로 나눌수있다
-- 소그룹으로 나눌수있다
-- 소그룹분할
-- 소그룹화
-- 소그룹
-- 부분화
-- 파티션화
-- 파티션랭크
-- 부분랭크
+- Partition 과 Group By 구문은 의미적으로 유사하다
+- Partition 구문이 없으면 전체 집합을 하나의 Partition으로 정의한 것과 동일
+- Window함수 OVER (PARTITION BY ...)
+- Window함수 OVER (PARTITION BY)
+- Window함수() OVER (PARTITION BY ...)
+- Window함수() OVER (PARTITION BY)
+- 📌DENSE_RANK() OVER (PARTITION BY ...)
+- 📌RANK() OVER (PARTITION BY ...)
+- 📌ROW_NUMBER() OVER (PARTITION BY ...)
 - 각랭크
 - 각순위
-- 파티션순위
+- 부분
+- 부분랭크
 - 부분순위
+- 부분화
+- 소그룹
+- 소그룹분할
 - 소그룹순위
+- 소그룹으로 나눌수있다
+- 소그룹화
 - 윈도우 함수 적용 범위는 Partition을 넘을 수 없다
-- Partition 구문이 없으면 전체 집합을 하나의 Partition으로 정의한 것과 동일
+- 전체집합을 기준에의해 소그룹으로 나눌수있다
+- 파티션
+- 파티션랭크
+- 파티션순위
+- 파티션화

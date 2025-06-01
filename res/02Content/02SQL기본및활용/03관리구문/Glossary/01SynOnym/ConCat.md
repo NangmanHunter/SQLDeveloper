@@ -1,25 +1,25 @@
+﻿- ||
+- \+
+- con + cat
+- con-(함께) + -catenate(사슬처럼 잇다)
+- CONCAT
 - Concat
 - ConCat
-- ConCat함수
-- Concat함수
 - concat
-- con + cat
-- 연결하다
-- CONCAT
-- CONCAT함수
+- CONCAT (string1, string2)
 - CONCAT()
+- CONCAT(A, B)
+- CONCAT(A,B)
+- CONCAT(string1, string2)
 - ConCatenate
 - Concatenate
 - concatenate
-- con-(함께) + -catenate(사슬처럼 잇다)
-- CONCAT (string1, string2)
-- CONCAT(string1, string2)
-- CONCAT(A, B)
-- CONCAT(A,B)
-- ||
-- \+
-- 함수
-- 문자형함수
-- 문자연결함수
+- Concat함수
+- ConCat함수
+- CONCAT함수
 - 문자연결
+- 문자연결함수
+- 문자형함수
 - 연결
+- 연결하다
+- 함수

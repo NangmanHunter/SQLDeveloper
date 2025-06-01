@@ -1,11 +1,11 @@
-- FirstValue
-- FirstValue함수
-- First Value
+﻿- First Value
 - FIRST VALUE
 - FIRST_VALUE
-- FIRST_VALUE함수
 - FIRST_VALUE()
-- FIRST_VALUE()함수
 - FIRST_VALUE() OVER
-- 최초값
+- FIRST_VALUE()함수
+- FIRST_VALUE함수
+- FirstValue
+- FirstValue함수
 - 최초
+- 최초값

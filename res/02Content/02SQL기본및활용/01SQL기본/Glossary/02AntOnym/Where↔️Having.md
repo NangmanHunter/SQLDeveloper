@@ -1,4 +1,4 @@
 ﻿- COUNT WHERE↔️COUNT HAVING
 - CountWhere↔️CountHaving
-- Where↔️Having
 - WHERE↔️HAVING
+- Where↔️Having

@@ -1,30 +1,30 @@
-- Except
-- EXCEPT
-- EXCEPT기능
-- EXCEPT(SQLServer)
-- 차집합
-- 차
-- \-
-- Oracle   ▶️MINUS
-- SQLServer▶️EXCEPT
-- Minus
-- MINUS
-- MINUS기능
-- MINUS(Oracle)
-- 일부DB MINUS
-- NOT EXISTS
-- WHERE NOT EXISTS
-- DIFFERENCE연산
+﻿- \-
 - DIFFERENCE
 - Difference
 - Difference연산
-- 차이
-- 빼기
-- Oracle MINUS기능
+- DIFFERENCE연산
+- EXCEPT
+- Except
+- EXCEPT(Oracle MINUS)기능
+- EXCEPT(SQLServer)
+- EXCEPT기능
+- MINUS
+- Minus
+- MINUS(Oracle)
+- MINUS기능
+- NOT EXISTS
+- Oracle   ▶️MINUS
 - Oracle MINUS
+- Oracle MINUS 기능
+- Oracle MINUS기능
 - OracleMINUS
-- OracleMINUS기능
 - OracleMinus
 - OracleMinus기능
-- Oracle MINUS 기능
-- EXCEPT(Oracle MINUS)기능
+- OracleMINUS기능
+- SQLServer▶️EXCEPT
+- WHERE NOT EXISTS
+- 빼기
+- 일부DB MINUS
+- 차
+- 차이
+- 차집합

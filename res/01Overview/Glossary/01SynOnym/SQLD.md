@@ -3,8 +3,8 @@
 - SQL 개발자
 - SQL 개발자(SQLD*, SQL Developer)
 - SQL_Developer
-- SQLD
 - SQLd
+- SQLD
 - SQLD 자격증
 - SQLD*
 - SQLDeveloper

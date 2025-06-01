@@ -2,8 +2,8 @@
 - ABT
 - Association
 - Association between Things
-- Association betweenThings
 - Association BetweenThings
+- Association betweenThings
 - AssociationBetweenThings
 - 어떤 것간의 연관
 - 어떤 것간의 연관(Association between Things)

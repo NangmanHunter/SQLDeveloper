@@ -1,23 +1,23 @@
-- Lag
-- Lag함수
+﻿- ↑
 - LAG
+- Lag
 - LAG()
-- LAG(A)
-- LAG(A)=LAG(A,1)
-- LAG(A,1)
-- LAG(A, 1)
-- LAG(A, 2)
-- LAG(A,2)
 - LAG() OVER
 - LAG() OVER()
+- LAG(A)
+- LAG(A)=LAG(A,1)
+- LAG(A, 1)
+- LAG(A, 2)
+- LAG(A,1)
+- LAG(A,2)
+- Lag함수
 - LAG함수
+- 상
+- 상향
+- 위쪽
 - 이전
-- 전
+- 이전함수
 - 이전행
 - 이전행함수
-- 이전함수
-- ↑
-- 위쪽
+- 전
 - 지체
-- 상향
-- 상
