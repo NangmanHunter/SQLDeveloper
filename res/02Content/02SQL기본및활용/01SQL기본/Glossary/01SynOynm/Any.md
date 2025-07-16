@@ -4,7 +4,15 @@
 - Any다중행비교연산자
 - ANY
 - \> ANY = > MIN
+- \> ANY() = > MIN()
+- \>ANY() = >MIN()
+- \>ANY() 🟰 >MIN()
+- \>ANY 🟰 >MIN
 -  < ANY = < MAX
+-  < ANY() = < MAX()
+-  <ANY() = <MAX()
+-  <ANY() 🟰 <MAX()
+-  <ANY 🟰 <MAX
 - ANY연산자
 - ANY비교연산자
 - ANY다중행비교연산자
