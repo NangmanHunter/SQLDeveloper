@@ -1,5 +1,5 @@
-﻿- First Value
-- FIRST VALUE
+﻿- FIRST VALUE
+- First Value
 - FIRST_VALUE
 - FIRST_VALUE()
 - FIRST_VALUE() OVER

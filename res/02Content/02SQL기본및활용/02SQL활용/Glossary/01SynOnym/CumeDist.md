@@ -6,8 +6,8 @@
 - 0< ≤1
 - 0초과
 - 0초과함수
-- CUME DIST
 - Cume Dist
+- CUME DIST
 - CUME_DIST
 - CUME_DIST()
 - CUME_DIST함수

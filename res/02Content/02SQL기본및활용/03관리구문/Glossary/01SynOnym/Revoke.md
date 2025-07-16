@@ -1,6 +1,6 @@
 ﻿- FROM
-- Revoke
 - REVOKE
+- Revoke
 - REVOKE 00 FROM 00
 - REVOKE FROM
 - 권한취소

@@ -1,4 +1,0 @@
-- ❌NULL
-- NULL❌
-- ❌NULL제외
-- NULL제외

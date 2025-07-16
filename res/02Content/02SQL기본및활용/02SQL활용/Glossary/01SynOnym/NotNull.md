@@ -1,5 +1,5 @@
-﻿- NOT NULL
-- Not Null
+﻿- Not Null
+- NOT NULL
 - NOT NULL = ''
 - NotNull
 - NULL 입력방지

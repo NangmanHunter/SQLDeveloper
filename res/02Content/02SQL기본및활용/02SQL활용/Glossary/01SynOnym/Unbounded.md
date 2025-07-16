@@ -1,5 +1,5 @@
-﻿ - UNBOUNDED
- - Unbounded
+﻿ - Unbounded
+ - UNBOUNDED
  - 개수경계없이
  - 개수제한없이
  - 경계없는

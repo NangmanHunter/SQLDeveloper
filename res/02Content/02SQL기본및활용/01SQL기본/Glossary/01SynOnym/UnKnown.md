@@ -1,0 +1,38 @@
+﻿- ... OR UNKNOWN▶️...
+- ✅간접사용
+- ❌UnKnown자체출력
+- ❌리터럴로사용
+- ❌리터럴사용
+- ❌상수
+- ❌상수값
+- ❌직접 컬럼에 저장하거나 비교에 사용하는 상수 값
+- ❌직접사용
+- ❌직접저장
+- ❌직접컬럼에 저장하거나 비교에 사용하는 상수값
+- 00 OR UNKNOWN▶️00
+- A AND UNKNOWN▶️A << UNKNOWN▶️UNKNOWN
+- A AND UNKNOWN▶️UNKNOWN
+- A OR  UNKNOWN▶️A
+- A OR  UNKNOWN▶️A >> UNKNOWN▶️A
+- AND UNKNOWN▶️UNKNOWN
+- OR UNKNOWN▶️''
+- U
+- UK
+- UnKnown
+- Unknown
+- UNKNOWN AND A▶️UNKNOWN
+- UNKNOWN AND▶️UNKNOWN
+- UNKNOWN OR  A▶️A
+- UNKNOWN OR ▶️A
+- WHERE 1 =NULL▶️WHERE UNKNOWN▶️WHERE FALSE▶️0행
+- WHERE 1!=NULL▶️WHERE UNKNOWN▶️WHERE FALSE▶️0행
+- WHERE A =NULL▶️WHERE UNKNOWN▶️WHERE FALSE▶️0행
+- WHERE A!=NULL▶️WHERE UNKNOWN▶️WHERE FALSE▶️0행
+- WHERE UNKNOWN▶️0행
+- WHERE UNKNOWN▶️WHERE FALSE▶️0행
+- 내부적으로는 NULL 값으로 처리
+- 논리 연산의 결과값
+- 불확실함
+- 불확정
+- 알수없음
+- 알수없음(Unknown)

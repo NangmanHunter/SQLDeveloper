@@ -1,5 +1,5 @@
-﻿- RATIO TO REPORT
-- Ratio To Report
+﻿- Ratio To Report
+- RATIO TO REPORT
 - RATIO_TO_REPORT
 - RATIO_TO_REPORT()
 - RATIO_TO_REPORT함수

@@ -6,10 +6,10 @@
 - ❌순위단속
 - ❌순위불연속
 - 1223
-- Dense Rank
 - DENSE RANK
-- DENSE_RANK
+- Dense Rank
 - Dense_Rank
+- DENSE_RANK
 - DENSE_RANK Function
 - DENSE_RANK 함수
 - DENSE_RANK()

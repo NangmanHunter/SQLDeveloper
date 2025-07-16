@@ -1,0 +1,12 @@
+﻿- ✅WHERE 00 IS NULL
+- ❌WHERE 00 = NULL
+- WHERE 00 IS NULL
+- WHERE IS NULL
+- WHERE NULL
+- Where▶️Null
+- WhereNull
+- WhereNull조건
+- Where절▶️Null조건
+- Where절Null조건
+- Where절ㆍNull조건
+- WhereㆍNull조건

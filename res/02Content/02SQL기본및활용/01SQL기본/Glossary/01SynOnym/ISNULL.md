@@ -1,0 +1,15 @@
+﻿- =NULL
+- A=NULL
+- IsNull
+- ISNULL
+- ISNULL()
+- ISNULL()함수
+- ISNULL(A, B)
+- ISNULL(A,B)
+- ISNULL(A,B)=BA
+- ISNULL(A,B)=BㆍA
+- ISNULL(A,B)▶️BㆍA
+- ISNULL함수
+- NULL
+- 📌A≠NULL▶️A
+- 📌A=NULL▶️B

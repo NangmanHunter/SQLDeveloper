@@ -1,0 +1,27 @@
+﻿- =B
+- A=B
+- B
+- Null If
+- Null If equal
+- Null If Equal
+- NULL if equal
+- NullIf
+- NULLIF
+- NULLIF()
+- NULLIF()함수
+- NULLIF(A, B)
+- NULLIF(A,A1)
+- NULLIF(A,B)
+- NULLIF(A,B)=NA
+- NULLIF(A,B)=NULLㆍA
+- NULLIF(A,B)=NㆍA
+- NULLIF(A,B)▶️NULLㆍA
+- NULLIF(A1,A2)
+- NULLIF함수
+- NullIf함수
+- 👉EXPR1≠EXPR2▶️EXPR1
+- 👉EXPR1=EXPR2▶️NULL
+- 👉NULLIF(EXPR1, EXPR2)
+- 📌A≠B▶️A
+- 📌A=B▶️NULL
+- 📌NULLIF(A, B)

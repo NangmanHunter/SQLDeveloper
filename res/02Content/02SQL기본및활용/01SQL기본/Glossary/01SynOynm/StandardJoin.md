@@ -1,4 +1,0 @@
-- 표준조인(StandardJoin)
-- 표준조인
-- StandardJoin
-- Standard Join

@@ -1,0 +1,8 @@
+﻿- IJ
+- Inner
+- INNER
+- Inner Join
+- INNER JOIN
+- InnerJoin
+- Inner조인
+- INNER조인

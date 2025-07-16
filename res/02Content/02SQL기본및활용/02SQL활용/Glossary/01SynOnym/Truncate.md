@@ -15,8 +15,8 @@
 - DELETE 보다빠름
 - DELETE보다 빠름
 - DELETE보다빠름
-- Truncate
 - TRUNCATE
+- Truncate
 - UNDO데이터 비생성
 - UNDO데이터 생성않음
 - UNDO데이터❌

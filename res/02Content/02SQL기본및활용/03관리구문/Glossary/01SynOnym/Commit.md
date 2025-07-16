@@ -1,5 +1,5 @@
-﻿- COMMIT
-- Commit
+﻿- Commit
+- COMMIT
 - 비자동커밋
 - 사용자Commit
 - 수동커밋

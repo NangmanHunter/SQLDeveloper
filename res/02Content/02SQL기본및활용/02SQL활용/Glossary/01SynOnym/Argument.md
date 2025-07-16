@@ -1,5 +1,5 @@
-﻿- ARGUMENT
-- Argument
+﻿- Argument
+- ARGUMENT
 - 매개변수
 - 아규먼트
 - 아규먼트(인자)

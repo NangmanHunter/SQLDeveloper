@@ -1,0 +1,47 @@
+﻿- ✅공통속성▶️❌CrossJoin
+- ❌Join Key
+- ❌JoinKey
+- ❌Join공통
+- ❌Join공통속성
+- ❌Join속성
+- ❌공통속성
+- ❌공통속성▶️✅CrossJoin
+- ❌공통컬럼
+- ❌동일속성
+- ❌동일컬럼
+- Cartesian  Join
+- Cartesian Product
+- Cartesian Product Join
+- CartesianJoin
+- CartesianProduct Join
+- CartesianProductJoin
+- CJ
+- Cross
+- CROSS
+- CROSS Join
+- CROSS JOIN
+- Cross Join
+- CROSSJoin
+- CrossJoin
+- CROSS조인
+- Cross조인
+- Join Key 가 없을 경우 발생
+- JoinKey가 없을경우
+- JoinKey가 없을경우 발생
+- JoinKey가 없을경우발생
+- JoinKey가없을경우
+- JoinKey없을경우
+- JoinKey없음
+- Product
+- Product Join
+- ProductJoin
+- Product연산
+- X
+- x
+- 공통Key없음
+- 공통키없음
+- 모든데이터조합
+- 모든조합
+- 조인키없음
+- 카르테시안 조인
+- 카르테시안조인

@@ -1,15 +1,15 @@
 ﻿- \-
-- DIFFERENCE
 - Difference
-- Difference연산
+- DIFFERENCE
 - DIFFERENCE연산
-- EXCEPT
+- Difference연산
 - Except
+- EXCEPT
 - EXCEPT(Oracle MINUS)기능
 - EXCEPT(SQLServer)
 - EXCEPT기능
-- MINUS
 - Minus
+- MINUS
 - MINUS(Oracle)
 - MINUS기능
 - NOT EXISTS
@@ -17,10 +17,10 @@
 - Oracle MINUS
 - Oracle MINUS 기능
 - Oracle MINUS기능
-- OracleMINUS
 - OracleMinus
-- OracleMinus기능
+- OracleMINUS
 - OracleMINUS기능
+- OracleMinus기능
 - SQLServer▶️EXCEPT
 - WHERE NOT EXISTS
 - 빼기

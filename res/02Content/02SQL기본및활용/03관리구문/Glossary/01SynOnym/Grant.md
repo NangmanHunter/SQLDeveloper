@@ -1,5 +1,5 @@
-﻿- GRANT
-- Grant
+﻿- Grant
+- GRANT
 - GRANT 00 TO 00
 - GRANT TO
 - TO

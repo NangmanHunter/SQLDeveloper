@@ -10,13 +10,13 @@
 - ✅SELECT 컬럼, SUM() GROUP BY 컬럼
 - ❌NULL연산
 - ❌SELECT 다른컬럼, SUM() GROUP BY 컬럼
-- Sum
 - SUM
+- Sum
 - SUM()
 - SUM(A)=Σ NVL(A,0)
 - SUM(A)=ΣNVL(A,0)
 - SUM(A+B)≠SUM(A)+SUM(B)
-- SUM함수
 - Sum함수
+- SUM함수
 - 📌SUM          ▶️전체합산
 - 📌SUM + GroupBy▶️개별합산

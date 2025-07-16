@@ -1,6 +1,6 @@
-﻿- CASCADE
-- Cascade
-- CASCADE옵션
+﻿- Cascade
+- CASCADE
 - Cascade옵션
+- CASCADE옵션
 - 상속소멸
 - 자식소멸

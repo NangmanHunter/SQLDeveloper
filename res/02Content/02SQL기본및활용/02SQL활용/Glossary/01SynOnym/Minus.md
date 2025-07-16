@@ -1,6 +1,6 @@
 ﻿- \-
-- Minus
 - MINUS
+- Minus
 - 중복제거
 - 차
 - 차집합

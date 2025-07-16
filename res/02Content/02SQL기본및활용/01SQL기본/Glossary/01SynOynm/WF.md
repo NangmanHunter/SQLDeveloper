@@ -1,5 +1,0 @@
-- 윈도우함수(Window Function)
-- 윈도우함수
-- Window Function
-- WindowFunction
-- WF

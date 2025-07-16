@@ -1,5 +1,5 @@
-﻿- Nested Loop Join
-- NESTED LOOP JOIN
+﻿- NESTED LOOP JOIN
+- Nested Loop Join
 - NESTED LOOP JOIN (중첩 루프 조인)
 - NestedLoopJoin
 - 내부 테이블이 크면 느림

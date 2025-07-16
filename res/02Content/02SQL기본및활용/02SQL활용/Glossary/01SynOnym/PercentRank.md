@@ -6,8 +6,8 @@
 - 0부터함수
 - 0이상
 - 0이상함수
-- PERCENT RANK
 - Percent Rank
+- PERCENT RANK
 - PERCENT_RANK
 - PERCENT_RANK()
 - PERCENT_RANK함수

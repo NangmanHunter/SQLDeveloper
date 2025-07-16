@@ -1,6 +1,0 @@
-- DL
-- 데이터 언어(Data Language)
-- 데이터 언어
-- 데이터언어
-- Data Language
-- DataLanguage

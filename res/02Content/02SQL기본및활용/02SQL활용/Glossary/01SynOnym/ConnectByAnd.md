@@ -1,6 +1,6 @@
 ﻿- CONNECT BY 00 AND 00
-- CONNECT BY AND
 - Connect By And
+- CONNECT BY AND
 - CONNECT BY AND▶️❌START
 - ConnectByAnd▶️❌START
 - WhereAnd↔️ConnectByAnd

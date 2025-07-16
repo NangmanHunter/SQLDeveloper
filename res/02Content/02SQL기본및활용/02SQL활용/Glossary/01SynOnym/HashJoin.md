@@ -3,8 +3,8 @@
 - 01▶️작은 테이블에 대해 해시 테이블 생성
 - 02▶️큰 테이블을 스캔하면서 해시 테이블과 비교
 - Equal
-- Equality
 - equality
+- Equality
 - Hash Join
 - HASH JOIN 
 - HASH JOIN (해시 조인)

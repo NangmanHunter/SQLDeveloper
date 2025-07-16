@@ -5,8 +5,8 @@
 - ❌중복제거위한정렬작업
 - ❌중복제거위해정렬
 - ❌중복제거위해정렬작업
-- Union All
 - UNION ALL
+- Union All
 - UnionAll
 - 단순(+)
 - 단순결과만합쳐놓은것

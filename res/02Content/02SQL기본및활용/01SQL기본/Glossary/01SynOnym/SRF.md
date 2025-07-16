@@ -1,0 +1,18 @@
+﻿- Single
+- SingleRow
+- Single-Row
+- SingleRow Function
+- Single-Row Function
+- SingleRowFunction
+- SRF
+- 단
+- 단일
+- 단일입력▶️단일반환
+- 단일입력▶️단일출력
+- 단일입력단일반환
+- 단일입력단일출력
+- 단일입력ㆍ단일반환
+- 단일입력ㆍ단일출력
+- 단일행
+- 단일행함수
+- 단일행함수(Single-Row Function)

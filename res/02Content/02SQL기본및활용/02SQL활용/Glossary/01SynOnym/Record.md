@@ -1,7 +1,7 @@
-﻿- RECORD
-- Record
-- Row
+﻿- Record
+- RECORD
 - row
+- Row
 - 기록
 - 레코드
 - 레코드 = 한 줄 데이터 (한 사람, 한 상품 등 한 단위 정보)

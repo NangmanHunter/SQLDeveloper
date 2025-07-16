@@ -2,8 +2,8 @@
 - ✅DELETE FROM 00
 - ✅데이터삭제
 - ✅로그
-- Delete
 - DELETE
+- Delete
 - DELETE 00
 - DELETE FROM 00
 - 📌DELETE  ▶️✅데이터삭제ㆍ✅로그

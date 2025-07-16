@@ -9,8 +9,8 @@
 - 123
 - 1234
 - Row Number
-- Row_Number
 - ROW_NUMBER
+- Row_Number
 - ROW_NUMBER Function
 - ROW_NUMBER 함수
 - ROW_NUMBER()

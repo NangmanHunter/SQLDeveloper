@@ -6,11 +6,11 @@
 - DV
 - Dynamic View
 - DynamicView
-- FROM
 - From
+- FROM
 - FROM 절 안에 들어간 서브쿼리
-- From서브쿼리
 - FROM서브쿼리
+- From서브쿼리
 - FROM절
 - FROM절 서브쿼리
 - FROM절 안에 들어간 서브쿼리

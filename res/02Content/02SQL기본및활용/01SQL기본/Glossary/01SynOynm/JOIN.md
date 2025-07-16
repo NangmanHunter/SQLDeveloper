@@ -1,7 +1,0 @@
-- JOIN
-- Join
-- 조인
-- 📌JOIN속성▶️AA
-- 📌JOIN속성▶️AABB
-- 📌JOIN속성▶️AABB▶️AAB
-- 📌JOIN속성▶️AABB▶️ABB

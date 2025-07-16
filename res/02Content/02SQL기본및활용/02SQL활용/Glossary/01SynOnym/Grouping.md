@@ -1,5 +1,5 @@
-﻿- GROUPING
-- Grouping
+﻿- Grouping
+- GROUPING
 - GROUPING()
 - GROUPING(A)
 - GROUPING(A)상세▶️0
@@ -8,8 +8,8 @@
 - GROUPING(A)총계▶️1
 - GROUPING(칼럼명)
 - GROUPING(컬럼명)
-- GROUPING함수
 - Grouping함수
+- GROUPING함수
 - NULL
 - NULL소계
 - NULL소계판별

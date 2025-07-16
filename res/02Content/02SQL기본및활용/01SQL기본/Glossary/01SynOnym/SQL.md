@@ -1,0 +1,14 @@
+﻿- SQL
+- SQL(Structured Query Language)
+- SQL명령
+- SQL명령어
+- SQL문장
+- SQL문장들
+- Structured Query Language
+- Structured QueryLanguage
+- StructuredQuery Language
+- StructuredQueryLanguage
+- 관계형DB언어
+- 관계형데이터베이스언어
+- 관계형데이터베이스에서 데이터정의ㆍ데이터조작ㆍ데이터제어를 하기위해 사용하는언어
+- 관계형데이터베이스에서 데이터정의ㆍ데이터조작ㆍ데이터제어를하기위해 사용하는언어

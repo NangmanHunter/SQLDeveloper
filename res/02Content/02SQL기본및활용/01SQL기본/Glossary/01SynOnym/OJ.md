@@ -1,0 +1,8 @@
+﻿- OJ
+- Outer
+- OUTER
+- Outer Join
+- OUTER JOIN
+- OuterJoin
+- Outer조인
+- OUTER조인

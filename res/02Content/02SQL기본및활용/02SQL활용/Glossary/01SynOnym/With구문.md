@@ -1,7 +1,7 @@
 ﻿- WITH (CTE)
 - WITH ... UNION ALL ... 구조 → 재귀 CTE 패턴
 - WITH 구문(= CTE, Common Table Expression)
-- With구문
 - WITH구문
+- With구문
 - 가상 테이블
 - 가상테이블

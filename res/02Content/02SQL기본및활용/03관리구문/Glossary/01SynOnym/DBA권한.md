@@ -1,8 +1,8 @@
 ﻿- Administrator
-- Database Administrator
 - DataBase Administrator
-- DataBaseAdministrator
+- Database Administrator
 - DatabaseAdministrator
+- DataBaseAdministrator
 - DBA
 - DBA = Database Administrator (데이터베이스 관리자)
 - DBA권한

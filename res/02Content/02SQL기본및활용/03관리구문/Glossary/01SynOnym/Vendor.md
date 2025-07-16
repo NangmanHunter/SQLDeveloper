@@ -1,5 +1,5 @@
-﻿- vendor
-- Vendor
+﻿- Vendor
+- vendor
 - 공급
 - 공급사
 - 공급회사

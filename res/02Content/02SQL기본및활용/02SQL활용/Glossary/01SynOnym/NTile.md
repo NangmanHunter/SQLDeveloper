@@ -3,20 +3,20 @@
 - ARGUMENT(=N)등분결과
 - ARGUMENT(N)등분결과
 - ARGUMENT=N등분결과
-- N
 - n
-- n tile
+- N
 - N Tile
+- n tile
 - N(ARGUMENT)등분결과
-- NTile
-- NTILE
-- ntile
 - Ntile
 - nTile
+- ntile
+- NTile
+- NTILE
 - NTILE()
 - NTILE(ARGUMENT)
-- NTILE(n)
 - NTILE(N)
+- NTILE(n)
 - NTILE함수
 - N등분
 - N등분함수

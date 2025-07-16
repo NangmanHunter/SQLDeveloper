@@ -3,8 +3,8 @@
 - ❌GROUP BY 00 + SELECT ... 윈도우함수() OVER(PARTITION BY 00)
 - ❌GROUP BY 구문과 Window function 은 병행사용
 - AF
-- ANALYTIC FUNCTION
 - Analytic Function
+- ANALYTIC FUNCTION
 - AnalyticFunction
 - OVER
 - OVER()
@@ -13,8 +13,8 @@
 - WF
 - WF
 - Window
-- Window Function
 - WINDOW FUNCTION
+- Window Function
 - WINDOW FUNCTION▶️순위함수
 - WINDOW FUNCTION▶️순위함수(RANK FUNCTION)
 - WindowFunction

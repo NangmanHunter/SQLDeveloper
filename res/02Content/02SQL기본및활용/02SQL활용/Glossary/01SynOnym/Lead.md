@@ -1,6 +1,6 @@
 ﻿- ↓
-- LEAD
 - Lead
+- LEAD
 - LEAD()
 - LEAD(A)
 - LEAD(A)=LEAD(A,1)
@@ -8,8 +8,8 @@
 - LEAD(A, 2)
 - LEAD(A,1)
 - LEAD(A,2)
-- LEAD함수
 - Lead함수
+- LEAD함수
 - 다음
 - 선도
 - 아래쪽

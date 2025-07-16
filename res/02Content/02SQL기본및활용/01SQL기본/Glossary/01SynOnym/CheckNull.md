@@ -1,0 +1,10 @@
+﻿- CHECK + NULL
+- CHECK + NULL▶️TRUE
+- Check Null
+- CHECK+NULL
+- CHECK▶️✅TRUE
+- CHECK▶️✅UnKnown
+- CHECK▶️❌FALSE
+- CheckNull
+- CHECKㆍNULL
+- NULL허용

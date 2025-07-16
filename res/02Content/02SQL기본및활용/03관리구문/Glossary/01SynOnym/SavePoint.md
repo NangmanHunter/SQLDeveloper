@@ -1,3 +1,3 @@
-﻿- SAVEPOINT
-- SavePoint
+﻿- SavePoint
+- SAVEPOINT
 - 저장점

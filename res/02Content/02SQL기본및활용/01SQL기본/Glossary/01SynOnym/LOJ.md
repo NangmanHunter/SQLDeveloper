@@ -1,0 +1,12 @@
+﻿- LEFT
+- LEFT JOIN
+- Left Outer
+- LEFT OUTER
+- LEFT OUTER JOIN
+- Left Outer Join
+- LeftJoin
+- LeftOuter
+- LeftOuterJoin
+- LEFT조인
+- LJ
+- LOJ

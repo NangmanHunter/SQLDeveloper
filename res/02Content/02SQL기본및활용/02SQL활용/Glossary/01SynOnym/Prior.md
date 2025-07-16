@@ -1,7 +1,7 @@
 ﻿- COONECT BY PRIOR
 - COONECT BY PRIOR 00
-- Prior
 - PRIOR
+- Prior
 - PRIOR 00
 - PRIOR 00▶️현재읽은행(PRIOR)의 칼럼(00)지정
 - PRIOR 00▶️현재읽은행의 칼럼(00)지정

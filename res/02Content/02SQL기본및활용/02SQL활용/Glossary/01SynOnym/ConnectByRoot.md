@@ -1,8 +1,8 @@
 ﻿- ✅엄밀히연산자
 - ❌엄밀히사용함수
 - ❌엄밀히함수
-- CONNECT BY ROOT
 - Connect By Root
+- CONNECT BY ROOT
 - CONNECT BY ROOT 00
 - CONNECT BY ROOT 00▶️(ROOT)00
 - CONNECT BY ROOT 00▶️00(ROOT)

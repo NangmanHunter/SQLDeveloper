@@ -1,8 +1,8 @@
 ﻿- I
 - IG
-- Integration
-- InTegration
 - InteGration
+- InTegration
+- Integration
 - IT
 - 통합성
 - 통합성(Integration)

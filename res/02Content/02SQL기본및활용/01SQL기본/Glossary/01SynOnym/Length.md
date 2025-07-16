@@ -1,0 +1,19 @@
+﻿- Len
+- len
+- LEN
+- LEN()
+- LEN(SQLServer)
+- length
+- Length
+- LENGTH
+- LENGTH()
+- LENGTH(Oracle)
+- Length함수
+- LENGTH함수
+- LEN함수
+- 📌01Oracle   👉CHAR + '' + LENGTH▶️NULL
+- 📌01Oracle   👉CHAR + LENGTH     ▶️CHAR길이
+- 📌02SQLServer👉CHAR + '' + LEN   ▶️0
+- 📌02SQLServer👉CHAR + LEN        ▶️문자길이
+- 🔎Oracle   ▶️LENGTH
+- 🔎SQLServer▶️LEN

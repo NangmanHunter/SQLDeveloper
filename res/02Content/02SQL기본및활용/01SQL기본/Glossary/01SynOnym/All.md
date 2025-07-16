@@ -1,0 +1,20 @@
+﻿- \> ALL = > MAX
+- \> ALL() = > MAX()
+- \>ALL 🟰 >MAX
+- \>ALL() = >MAX()
+- \>ALL() 🟰 >MAX()
+- < ALL = < MIN
+- < ALL() = < MIN()
+- <ALL 🟰 <MIN
+- <ALL() = <MIN()
+- <ALL() 🟰 <MIN()
+- ALL
+- All
+- ALL다중행비교연산자
+- All다중행비교연산자
+- ALL비교연산자
+- All비교연산자
+- All연산자
+- ALL연산자
+- 모두
+- 모든

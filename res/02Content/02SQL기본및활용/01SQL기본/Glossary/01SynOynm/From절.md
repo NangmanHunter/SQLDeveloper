@@ -1,8 +1,0 @@
-- From
-- FROM
-- FROM절
-- FROM절▶️❌ALIAS
-- FROM절▶️❌AS
-- FROM절　▶️테이블▶️❌AS
-- SELECT절▶️속성　▶️✅AS
-- From절

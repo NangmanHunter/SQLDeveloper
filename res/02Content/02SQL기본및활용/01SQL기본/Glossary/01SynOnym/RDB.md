@@ -1,0 +1,8 @@
+﻿- RDB
+- Relational Database
+- RelationalDataBase
+- RelationalDatabase
+- RelationalDB
+- 관계형DB
+- 관계형데이터베이스
+- 관계형데이터베이스(Relational Database)

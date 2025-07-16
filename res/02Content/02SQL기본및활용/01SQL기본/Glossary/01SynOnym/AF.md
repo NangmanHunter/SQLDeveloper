@@ -1,0 +1,5 @@
+﻿- AF
+- Aggregate Function
+- AggregateFunction
+- 집계함수
+- 집계함수(Aggregate Function)

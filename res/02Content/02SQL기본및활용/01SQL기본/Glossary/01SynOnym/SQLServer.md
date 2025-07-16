@@ -1,0 +1,6 @@
+﻿- Microsoft SQL Server
+- 📌2025년 기준(내부 기준) 1위: Oracle
+- 📌2025년 기준(내부 기준) 2위: MySQL
+- 📌2025년 기준(내부 기준) 3위: Microsoft SQL Server
+- 📌2025년 기준(내부 기준) 4위: PostgreSQL
+- 📌2025년 기준(내부 기준) 5위: MongoDB

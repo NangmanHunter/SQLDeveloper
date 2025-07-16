@@ -1,3 +1,3 @@
-﻿- Locking
-- LOCKING
+﻿- LOCKING
+- Locking
 - 잠금

@@ -2,21 +2,21 @@
 - \+
 - con + cat
 - con-(함께) + -catenate(사슬처럼 잇다)
-- CONCAT
-- Concat
 - ConCat
 - concat
+- CONCAT
+- Concat
 - CONCAT (string1, string2)
 - CONCAT()
 - CONCAT(A, B)
 - CONCAT(A,B)
 - CONCAT(string1, string2)
-- ConCatenate
-- Concatenate
 - concatenate
-- Concat함수
-- ConCat함수
+- Concatenate
+- ConCatenate
 - CONCAT함수
+- ConCat함수
+- Concat함수
 - 문자연결
 - 문자연결함수
 - 문자형함수

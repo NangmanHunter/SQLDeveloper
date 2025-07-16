@@ -1,3 +1,3 @@
-﻿- ROLLBACK
-- RollBack
+﻿- RollBack
+- ROLLBACK
 - 롤백

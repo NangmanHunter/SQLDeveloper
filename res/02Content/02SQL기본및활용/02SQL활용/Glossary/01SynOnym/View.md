@@ -7,16 +7,16 @@
 - ❌물리성
 - ❌실제
 - ❌실제데이터
-- CREATE ...
 - Create ...
+- CREATE ...
 - DB 객체로 영구 저장
 - Definition
 - Rewrite
 - Static View
 - StaticView
 - SV
-- View
 - VIEW
+- View
 - View Definition
 - ViewDefinition
 - Virtual Table
@@ -37,8 +37,8 @@
 - 보다
 - 뷰
 - 뷰 정의(View Definition)
-- 뷰(VIEW)
 - 뷰(View)
+- 뷰(VIEW)
 - 뷰가 사용되면 뷰정의를 참조해서 내부적으로 질의를 재작성하여 질의를 수행
 - 뷰가사용되면 뷰정의를참조해서 내부적으로질의를재작성하여 질의를수행
 - 뷰는 단지 정의만을 가지고 있으며

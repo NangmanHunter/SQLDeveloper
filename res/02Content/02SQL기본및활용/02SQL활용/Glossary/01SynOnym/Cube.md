@@ -1,8 +1,8 @@
 ﻿- ✅부담
 - 3차원 정육면체
+- CUBE
+- CUBE
 - Cube
-- CUBE
-- CUBE
 - CUBE()
 - CUBE(A)
 - CUBE(A)=GROUPING SETS((), (A))
@@ -12,8 +12,8 @@
 - CUBE(A,B)▶️Grouping(0,1)
 - CUBE(A,B)▶️Grouping(1,0)
 - CUBE(A,B)▶️Grouping(1,1)
-- CUBE함수
 - Cube함수
+- CUBE함수
 - GROUP BY CUBE
 - GROUP BY CUBE()
 - 📌CUBE(A,B)▶️(0,0)

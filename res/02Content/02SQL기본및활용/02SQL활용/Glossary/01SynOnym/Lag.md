@@ -1,6 +1,6 @@
 ﻿- ↑
-- LAG
 - Lag
+- LAG
 - LAG()
 - LAG() OVER
 - LAG() OVER()
@@ -10,8 +10,8 @@
 - LAG(A, 2)
 - LAG(A,1)
 - LAG(A,2)
-- Lag함수
 - LAG함수
+- Lag함수
 - 상
 - 상향
 - 위쪽

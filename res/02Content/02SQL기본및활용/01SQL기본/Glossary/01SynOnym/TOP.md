@@ -1,0 +1,15 @@
+﻿- ROW_NUMBER
+- ROW_NUMBER()
+- ROWNUM
+- TOP
+- Top
+- TOP ()
+- TOP()
+- TOP()=✅FROM() ROWNUM
+- TOP()≠❌FROM(ROWNUM) 
+- TOP구문
+- TOP절
+- TOP조건
+- 📌TOP          ▶️ROWNUM
+- 📌TOP WITH TIES▶️DENSE_RANK
+- 탑

@@ -6,10 +6,10 @@
 - DDLㆍCREATEㆍUNIQUE
 - Null 값을 가질 수 있다
 - UK
-- UNIQUE
 - Unique
-- Unique Key
+- UNIQUE
 - UNIQUE KEY
+- Unique Key
 - UNIQUE↔️NOT NULL
 - UniqueKey
 - 고유키

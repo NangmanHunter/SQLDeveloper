@@ -5,8 +5,8 @@
 - M:M관계
 - M:N
 - M:N관계
-- MANY TO MANY
 - Many to Many
+- MANY TO MANY
 - ManytoMany
 - MtM
 - MtM 관계

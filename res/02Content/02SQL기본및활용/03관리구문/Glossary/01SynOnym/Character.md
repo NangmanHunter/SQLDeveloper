@@ -1,8 +1,8 @@
 ﻿- ✅최대길이고정ㆍ✅공간길이고정
-- Character
 - CHARACTER
-- Character형
+- Character
 - CHARACTER형
+- Character형
 - 고정길이
 - 공간채움
 - 길이

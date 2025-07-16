@@ -1,0 +1,8 @@
+﻿- PK
+- PK = UNIQUE & NOT NULL
+- PK = UNIQUE + NOT NULL
+- Primary Key
+- PrimaryKey
+- 기본키
+- 주요키
+- 주키

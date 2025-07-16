@@ -1,3 +1,3 @@
-﻿- Transaction
-- TRANSACTION
+﻿- TRANSACTION
+- Transaction
 - 트랜잭션

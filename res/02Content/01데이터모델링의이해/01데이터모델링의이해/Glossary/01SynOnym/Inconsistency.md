@@ -5,7 +5,7 @@
 - ✅일관성있음
 - ❌비일관성
 - IC
-- Inconsistency
 - InConsistency
+- Inconsistency
 - 비일관성
 - 비일관성(Inconsistency)

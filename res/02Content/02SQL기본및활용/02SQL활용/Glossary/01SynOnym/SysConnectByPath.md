@@ -1,5 +1,5 @@
-﻿- Sys Connect By Path
-- SYS CONNECT BY PATH
+﻿- SYS CONNECT BY PATH
+- Sys Connect By Path
 - Sys ConnectBy Path
 - SYS_CONNECT_BY_PATH
 - SYS_CONNECT_BY_PATH()

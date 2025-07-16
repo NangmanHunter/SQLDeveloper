@@ -1,0 +1,26 @@
+﻿
+- ✅SELECT자리▶️✅ORDER BY 숫자
+- ❌SELECT자리▶️❌ORDER BY 숫자
+- ORACLE 은 NULL 을 가장 큰 값으로 취급하여 ORDER BY 시 맨 뒤로 정렬되고, SQL SERVER 반대로 가장 앞으로 정렬
+- ORDER BY
+- ORDER BY 1, COL1 과 같이 숫자와 컬럼을 혼용하여 사용할 수 있다
+- ORDER_BY
+- ORDER_BY절
+- OrderBy
+- OrderBy절
+- OrderBy절▶️✅컬럼명ㆍAliasㆍ정수혼용
+- OrderBy절▶️컬럼명
+- OrderBy절▶️컬럼명ㆍAlias
+- OrderBy절▶️컬럼명ㆍAliasㆍ정수
+- OrderBy절▶️컬럼명ㆍAliasㆍ정수 혼용
+- OrderBy절▶️컬럼명ㆍAliasㆍ정수혼용
+- SELECT 구문에 사용되지 않은 컬럼도 OERDER BY 구문에서 사용할 수 있다
+- SELECT자리▶️ORDER BY 숫자
+- 📌FromㆍGroupByㆍSelect▶️❌OrderBy외부컬럼
+- 📌FromㆍSelect         ▶️✅OrderBy외부컬럼
+- 📌OrderBy외부컬럼▶️✅FromㆍSelect         
+- 📌OrderBy외부컬럼▶️❌FromㆍGroupByㆍSelect
+- 숫자컬럼 혼용사용
+- 숫자컬럼혼용사용
+- 숫자ㆍ컬럼 혼용사용
+- 혼용사용

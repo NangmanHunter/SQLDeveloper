@@ -1,0 +1,18 @@
+﻿- MRF
+- Multi
+- MultiRow
+- Multi-Row
+- MultiRow Function
+- Multi-Row Function
+- MultiRowFunction
+- 다
+- 다중
+- 다중입력▶️단일반환
+- 다중입력▶️단일출력
+- 다중입력단일반환
+- 다중입력단일출력
+- 다중입력ㆍ단일반환
+- 다중입력ㆍ단일출력
+- 다중행
+- 다중행함수
+- 다중행함수(Multi-Row Function)

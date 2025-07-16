@@ -1,8 +1,8 @@
 ﻿- ✅최대길이고정ㆍ❌공간길이고정
-- VarChar
 - VARCHAR
-- VarChar형
+- VarChar
 - VARCHAR형
+- VarChar형
 - 가변길이
 - 공간길이줄임
 - 공간줄임

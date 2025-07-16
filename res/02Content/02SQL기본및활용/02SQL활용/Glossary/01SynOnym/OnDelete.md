@@ -1,5 +1,5 @@
-﻿- On Delete
-- ON DELETE
+﻿- ON DELETE
+- On Delete
 - ON DELETE▶️ON DELETE CASCADE
 - ON DELETE▶️ON DELETE SET NULL
 - OnDelete

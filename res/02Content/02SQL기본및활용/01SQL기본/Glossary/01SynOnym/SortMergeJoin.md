@@ -1,0 +1,5 @@
+﻿- ✅정렬
+- ✅정렬조인
+- SORT MERGE JOIN
+- Sort Merge Join
+- SortMergeJoin

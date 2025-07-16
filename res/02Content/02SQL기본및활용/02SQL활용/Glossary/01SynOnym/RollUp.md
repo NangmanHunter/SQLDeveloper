@@ -8,12 +8,12 @@
 - GROUP BY ROLLUP(A, B);
 - ROLL UP
 - ROLL UP함수
-- RollUp
-- Rollup
-- rollup
 - rollUp
 - RollUP
 - ROLLUP
+- RollUp
+- Rollup
+- rollup
 - ROLLUP(A)=GROUPING SETS((A), ()) 
 - ROLLUP(A)▶️기준+합계
 - ROLLUP(A)▶️기준대상+합계대상
@@ -36,9 +36,9 @@
 - ROLLUP(A,B)▶️엄밀히❌ORDER BY A
 - ROLLUP(A,B)▶️편의상✅ORDER BY A
 - ROLLUP(지역, 상품) → 지역 + 상품 → 지역 소계 → 전체 합계
-- Rollup함수
-- ROLLUP함수
 - RollUp함수
+- ROLLUP함수
+- Rollup함수
 - 📌ROLLUP(A,B)▶️(0,0)
 - 📌ROLLUP(A,B)▶️(0,1)
 - 📌ROLLUP(A,B)▶️(1,1)

@@ -1,0 +1,10 @@
+﻿- BIF
+- BUILTIN FUNCTION
+- BuiltIn Function
+- BUILT-IN FUNCTION
+- Built-In Function
+- BUILTINFUNCTION
+- BuiltInFunction
+- BUILT-INFUNCTION
+- 내장함수
+- 내장함수(BUILT-IN FUNCTION)

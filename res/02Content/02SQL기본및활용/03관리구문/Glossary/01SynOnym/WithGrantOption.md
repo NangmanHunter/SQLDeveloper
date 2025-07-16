@@ -1,5 +1,5 @@
-﻿- With Grant Option
-- WITH GRANT OPTION
+﻿- WITH GRANT OPTION
+- With Grant Option
 - WithGrantOption
 - 부여
 - 부여옵션

@@ -1,5 +1,5 @@
-﻿- True↔️False
-- TRUE↔️FALSE
-- WHERE TRUE↔️WHERE FALSE
+﻿- TRUE↔️FALSE
+- True↔️False
 - Where True↔️Where False
+- WHERE TRUE↔️WHERE FALSE
 - WhereTrue↔️WhereFalse

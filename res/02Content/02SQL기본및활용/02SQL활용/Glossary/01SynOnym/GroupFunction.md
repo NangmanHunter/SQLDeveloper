@@ -1,8 +1,8 @@
 ﻿- ✅계층간 정렬
 - ✅계층간정렬
 - ✅계층간정렬포함
-- GROUP FUNCTION
 - Group Function
+- GROUP FUNCTION
 - GROUP FUNCTION▶️ROLLUP, CUBE, GROUPING SETS
 - GroupFunction
 - 그룹함수

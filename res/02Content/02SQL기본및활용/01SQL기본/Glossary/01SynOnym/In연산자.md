@@ -1,0 +1,22 @@
+﻿- (A,B) IN ((C,D))▶️✅A=B ∧ B=D
+- (A,B) IN ((C,D))▶️❌A=B ∨ B=D
+- A IN (B,C)▶️A=B OR A=C
+- In
+- IN
+- IN
+- IN ( )
+- IN ( ) 연산자
+- IN () 연산자
+- IN (list)
+- IN (list) 연산자
+- IN( )
+- IN()
+- IN() 연산자
+- IN()연산자
+- IN(1, 2, NULL)=IN(1, 2)
+- IN(1, NULL)=IN(1)
+- IN('A', NULL)=IN('A')
+- IN연산자
+- In연산자
+- Multiple OR
+- MultipleOR

@@ -1,0 +1,17 @@
+﻿- ✅ON( AND )
+- ✅ONㆍAND
+- ❌WHERE AND
+- ❌WHEREㆍAND
+- ON AND
+- ON( AND )
+- ON절 AND
+- On절 And
+- On절And
+- On절ㆍAnd
+- ONㆍAND
+- 📌ONㆍAND   ▶️JOIN유효
+- 📌ONㆍAND   ▶️행일정
+- 📌ONㆍAND   ▶️행일정▶️JOIN유효
+- 📌WHEREㆍAND▶️JOIN무효
+- 📌WHEREㆍAND▶️행감소
+- 📌WHEREㆍAND▶️행감소▶️JOIN무효

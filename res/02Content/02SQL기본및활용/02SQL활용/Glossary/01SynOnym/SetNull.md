@@ -1,5 +1,5 @@
-﻿- Set Null
-- SET NULL
+﻿- SET NULL
+- Set Null
 - SET NULL옵션
 - SetNull
 - SetNull옵션

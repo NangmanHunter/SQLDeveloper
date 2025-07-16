@@ -8,20 +8,20 @@
 - ✅중복순위ㆍ✅단속순위
 - ✅중복ㆍ✅단속
 - 1224
+- RANK
+- RANK
 - Rank
-- RANK
-- RANK
 - RANK Function
-- RANK 함수
 - Rank 함수
+- RANK 함수
 - RANK()
 - RANK() OVER
 - RANK() OVER ()
 - RANK() OVER (ORDER BY ...)
 - RANK() OVER (ORDER BY)
 - RANKFunction
-- Rank함수
 - RANK함수
+- Rank함수
 - 순위중복
 - 중복
 - 중복순위

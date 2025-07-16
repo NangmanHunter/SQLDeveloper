@@ -1,0 +1,26 @@
+﻿
+
+- CHAR
+- CHAR()
+- CHAR(숫자)
+- CHAR(숫자)=문자
+- CHAR(숫자)▶️문자
+- CHR
+- CHR()
+- CHR()/CHAR()
+- CHR()ㆍCHAR()
+- CHR(숫자)
+- CHR(숫자) = 문자
+- CHR(숫자)=문자
+- CHR(숫자)▶️문자
+- CHR/CHAR
+- CHRㆍCHAR
+- MySQL▶️CHAR()
+- Oracle▶️CHR()
+- PostgreSQL▶️CHR()
+- SQLServer▶️CHAR()
+- 문자
+- 문자반환
+- 문자출력
+- 숫자▶️문자
+- 숫자문자

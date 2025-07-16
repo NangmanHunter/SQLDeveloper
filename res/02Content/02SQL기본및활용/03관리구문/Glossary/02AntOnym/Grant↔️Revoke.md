@@ -1,2 +1,2 @@
-﻿- GRANT↔️REVOKE
-- Grant↔️Revoke
+﻿- Grant↔️Revoke
+- GRANT↔️REVOKE

@@ -1,5 +1,5 @@
-﻿- DISTINCT
-- Distinct
+﻿- Distinct
+- DISTINCT
 - DML
 - DML SELECT DISTINCT
 - DMLㆍSELECTㆍDISTINCT

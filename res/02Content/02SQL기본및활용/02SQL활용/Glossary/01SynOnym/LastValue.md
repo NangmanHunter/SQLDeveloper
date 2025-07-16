@@ -1,5 +1,5 @@
-﻿- Last Value
-- LAST VALUE
+﻿- LAST VALUE
+- Last Value
 - LAST_VALUE
 - LAST_VALUE()
 - LAST_VALUE() OVER

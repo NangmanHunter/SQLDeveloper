@@ -1,0 +1,20 @@
+﻿- \> ANY = > MIN
+- \> ANY() = > MIN()
+- \>ANY 🟰 >MIN
+- \>ANY() = >MIN()
+- \>ANY() 🟰 >MIN()
+- < ANY = < MAX
+- < ANY() = < MAX()
+- <ANY 🟰 <MAX
+- <ANY() = <MAX()
+- <ANY() 🟰 <MAX()
+- ANY
+- Any
+- ANY다중행비교연산자
+- Any다중행비교연산자
+- ANY비교연산자
+- Any비교연산자
+- Any연산자
+- ANY연산자
+- 어떤
+- 어떤것이라도

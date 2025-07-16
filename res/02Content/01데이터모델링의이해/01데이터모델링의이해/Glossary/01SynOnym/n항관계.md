@@ -1,5 +1,5 @@
-﻿- nth relationship
-- Nth Relationship
+﻿- Nth Relationship
+- nth relationship
 - NthRelationship
 - n항 관계
 - n항관계

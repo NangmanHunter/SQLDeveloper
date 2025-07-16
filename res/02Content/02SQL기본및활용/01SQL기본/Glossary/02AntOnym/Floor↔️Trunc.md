@@ -1,3 +1,3 @@
 ﻿- FLOOR()↔️TRUNC()
-- FLOOR↔️TRUNC
 - Floor↔️Trunc
+- FLOOR↔️TRUNC

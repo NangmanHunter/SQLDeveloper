@@ -1,7 +1,7 @@
-﻿- Self Join
-- SELF JOIN
-- SelfJoin
+﻿- SELF JOIN
+- Self Join
 - SELFJoin
+- SelfJoin
 - 셀프조인
 - 한 테이블 내에서 두 칼럼이 연관 관계가 있다
 - 한테이블 두칼럼연관관계

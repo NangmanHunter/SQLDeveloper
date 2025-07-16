@@ -3,8 +3,8 @@
 - Group By 구문과 의미적으로 유사
 - OVER (PARTITION BY ...)
 - OVER (PARTITION BY)
-- PARTITION
 - Partition
+- PARTITION
 - PARTITION BY
 - PARTITION BY ...
 - PARTITION BY 절

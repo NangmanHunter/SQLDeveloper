@@ -1,8 +1,8 @@
 ﻿- Row Migration
 - Row Migration (로우 마이그레이션)
 - RowMigration
-- UPDATE
 - Update
+- UPDATE
 - 나중에 UPDATE로 데이터가 커져서 원래 블록에 더 이상 저장할 수 없게 될 경우
 - 두 개 블록
 - 두개 블록

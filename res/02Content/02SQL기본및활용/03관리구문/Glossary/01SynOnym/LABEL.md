@@ -1,8 +1,8 @@
-﻿- Column Label
-- COLUMN LABEL
+﻿- COLUMN LABEL
+- Column Label
 - ColumnLabel
-- LABEL
 - Label
+- LABEL
 - 라벨
 - 컬럼라벨
 - 컬럼명

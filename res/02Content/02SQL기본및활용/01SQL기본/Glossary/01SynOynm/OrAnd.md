@@ -1,9 +1,0 @@
-- OrAnd
-- Or And
-- OR AND
-- OR 00 AND 00
-- 00 OR 00 AND 00
-- OR (00 AND 00)
-- 00 OR (00 AND 00)
-- 우선순위▶️OR << AND
-- OR우선순위 << AND우선순위

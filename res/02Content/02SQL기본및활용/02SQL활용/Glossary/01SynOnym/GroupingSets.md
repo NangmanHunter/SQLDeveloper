@@ -8,8 +8,8 @@
 - GROUP BY GROUPING SETS((A,B))=GROUP BY A,B
 - GROUP BY GROUPING SETS()
 - Grouping Set
-- Grouping Sets
 - GROUPING SETS
+- Grouping Sets
 - GROUPING SETS((A))=GROUPING SETS(A)
 - GROUPING SETS((A,B))
 - GROUPING SETS((A,B)) = 단순데이터

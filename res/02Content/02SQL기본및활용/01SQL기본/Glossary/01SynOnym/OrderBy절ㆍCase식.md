@@ -1,0 +1,27 @@
+﻿- ✅가상데이터변경
+- ✅임시데이터변경
+- ✅정렬데이터변경
+- ✅정렬위한데이터변경
+- ❌데이터변경
+- ❌실데이터변경
+- ❌실제데이터변경
+- ORDER BY (CASE )
+- ORDER BY (CASE ... )
+- ORDER BY (CASE)
+- ORDER BY CASE
+- ORDER BYㆍCASE
+- ORDERBY CASE
+- ORDERBY절ㆍCASE식
+- OrderBy절ㆍCase식
+- ORDERBY절ㆍCASE조건식
+- ORDERBYㆍCASE
+- 가상번호
+- 데이터미변경
+- 임시번호부여
+- 임시순서
+- 정렬만을위한번호
+- 정렬위한가상번호
+- 정렬후버리는번호
+- 정렬후버리는숫자
+- 정렬후버림
+- 정렬후임시데이터버림

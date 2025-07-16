@@ -1,0 +1,12 @@
+﻿- RIGHT
+- RIGHT JOIN
+- Right Outer
+- RIGHT OUTER
+- RIGHT OUTER JOIN
+- Right Outer Join
+- RightJoin
+- RightOuter
+- RightOuterJoin
+- RIGHT조인
+- RJ
+- ROJ
