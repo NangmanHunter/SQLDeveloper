@@ -629,7 +629,7 @@
   - 📄[01관계형데이터베이스개요.md](res/02Content/02SQL기본및활용/01SQL기본/01관계형데이터베이스개요.md)
   - 📄[02SELECT문.md](res/02Content/02SQL기본및활용/01SQL기본/02SELECT문.md)
   - 📄[03함수.md](res/02Content/02SQL기본및활용/01SQL기본/03함수.md)
-  - 📄[04Where절.md](res/02Content/02SQL기본및활용/01SQL기본/04Where절.md)
+  - 📄[04Where절.md](res/02Content/02SQL기본및활용/01SQL기본/04WHERE절.md)
   - 📄[05GroupByㆍHaving절.md](res/02Content/02SQL기본및활용/01SQL기본/05GroupByㆍHaving절.md)
   - 📄[06OrderBy절.md](res/02Content/02SQL기본및활용/01SQL기본/06OrderBy절.md)
   - 📄[07조인.md](res/02Content/02SQL기본및활용/01SQL기본/07조인.md)
