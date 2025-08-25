@@ -1,4 +1,4 @@
-# SQLDeveloper 1.0.0
+# SQLD 1.0.0
 - ⏱️2025.05.31.
 - ✏️ExamDone
 
